@@ -314,6 +314,139 @@ If you use this benchmark, please cite:
 }
 ```
 
+### Models Used
+
+If you use the results from this benchmark, please cite the original model papers:
+
+**ESM1b-650M:**
+```bibtex
+@article{rives2021biological,
+  title={Biological structure and function emerge from scaling unsupervised learning to 250 million protein sequences},
+  author={Rives, Alexander and Meier, Joshua and Sercu, Tom and Goyal, Siddharth and Lin, Zeming and Liu, Jason and Guo, Demi and Ott, Mike and Zitnick, C Lawrence and Ma, Jerry and others},
+  journal={Proceedings of the National Academy of Sciences},
+  volume={118},
+  number={15},
+  year={2021},
+  publisher={National Academy of Sciences}
+}
+```
+
+**ESM2-650M:**
+```bibtex
+@article{lin2023evolutionary,
+  title={Evolutionary-scale prediction of atomic-level protein structure with a language model},
+  author={Lin, Zeming and Akin, Halil and Rao, Roshan and Hie, Brian and Zhu, Zhongkai and Lu, Wenting and Sercu, Tom and Rives, Alexander},
+  journal={Science},
+  volume={379},
+  number={6637},
+  pages={1123--1130},
+  year={2023},
+  publisher={American Association for the Advancement of Science}
+}
+```
+
+**SaProt-650M:**
+```bibtex
+@inproceedings{su2024saprot,
+  title={SaProt: Protein Language Modeling with Structure-aware Vocabulary},
+  author={Su, Zhiqiang and Chen, Yifeng and Ma, Yuxiang and Jiang, Wei and Li, Zhanhui and Gao, Junzhou},
+  booktitle={International Conference on Learning Representations (ICLR)},
+  year={2024}
+}
+```
+
+**ProtT5-XL:**
+```bibtex
+@article{elnaggar2022prottrans,
+  title={ProtTrans: Toward Cracking the Language of Life's Code Through Self-Supervised Deep Learning and High Performance Computing},
+  author={Elnaggar, Ahmed and Heinzinger, Martin and Dallago, Christian and Rehawi, Ghalia and Wang, Yu and Jones, Llion and Gibbs, Tom and Feher, Tamas and Angerer, Christoph and Steinegger, Martin and others},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  volume={44},
+  number={10},
+  pages={7112--7123},
+  year={2022},
+  publisher={IEEE}
+}
+```
+
+**NT-v2-500M:**
+```bibtex
+@article{dallatorre2023nucleotide,
+  title={The Nucleotide Transformer: Building and Evaluating Robust Foundation Models for Human Genomics},
+  author={Dalla-Torre, Hugo and Gonzalez, Liam and Mendoza-Revilla, Javier and Carranza, Nicolas L{\'o}pez and Grzywaczewski, Adam and Oteri, Francesco and others},
+  journal={Nature Methods},
+  year={2025},
+  publisher={Nature Publishing Group}
+}
+```
+
+**AlphaGenome:**
+```bibtex
+@article{avsec2026alphagenome,
+  title={Advancing regulatory variant effect prediction with AlphaGenome},
+  author={Avsec, {\v Z}iga and Latysheva, Natasha and Cheng, Jun and Novati, Guido and Taylor, Kyle R. and Ward, Tom and Bycroft, Clare and Nicolaisen, Lauren and Arvaniti, Eirini and Pan, Joshua and others},
+  journal={Nature},
+  volume={649},
+  number={8099},
+  pages={1206--1218},
+  year={2026},
+  publisher={Nature Publishing Group}
+}
+```
+
+**HyenaDNA-150M:**
+```bibtex
+@article{nguyen2023hyenadna,
+  title={HyenaDNA: Long-Range Genomic Sequence Modeling at Single Nucleotide Resolution},
+  author={Nguyen, Eric and Poli, Michael and Faizi, Marjan and Thomas, Andrew W. and Massaroli, Stefano and Birber, Christos and Shafi, R. and Ermon, Stefano and Ré, Christopher and Hsu, Patrick},
+  journal={Advances in Neural Information Processing Systems (NeurIPS)},
+  year={2023}
+}
+```
+
+### Tools Used
+
+**ClinVar:**
+```bibtex
+@article{landrum2018clinvar,
+  title={ClinVar: improvements to accessing data},
+  author={Landrum, Melissa J and Lee, Jennifer M and Benson, Lisa and Brown, Jennifer and Chao, Chiao and Chitipiralla, Shan and Gu, Bin and Hart, Jolen and Hoffman, Douglas and Jang, Wonhee and others},
+  journal={Nucleic acids research},
+  volume={46},
+  number={D1},
+  pages={D636--D641},
+  year={2018},
+  publisher={Oxford University Press}
+}
+```
+
+**Foldseek:**
+```bibtex
+@article{van Kempen2024foldseek,
+  title={Fast and accurate protein structure search with Foldseek},
+  author={van Kempen, Michel and Kim, Stephanie S and Tumescheit, Charlotte and Mirdita, Milot and Lee, Jooyoung and Gilchrist, Cameron L M and Söding, Johannes and Steinegger, Martin},
+  journal={Nature Biotechnology},
+  volume={42},
+  pages={586--589},
+  year={2024},
+  publisher={Nature Publishing Group}
+}
+```
+
+**AlphaFold DB:**
+```bibtex
+@article{varadi2024alphafold,
+  title={AlphaFold Protein Structure Database: significantly expanding the structural coverage of protein-sequence annotations with high-accuracy models},
+  author={Varadi, Mihaly and Anyango, Stephen and Deshpande, Mandar and Nair, Sreenath and Natassia, Cindy and Yordanova, Galabina and Taylor, David and Yankova, Kexin and Zaretski, Gal and Marth, Sean and others},
+  journal={Nucleic acids research},
+  volume={50},
+  number={D1},
+  pages={D439--D444},
+  year={2024},
+  publisher={Oxford University Press}
+}
+```
+
 ## License
 
 This project is open source. See the repository for license details.
