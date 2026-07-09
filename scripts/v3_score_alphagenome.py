@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Score benchmark_v3 with AlphaGenome."""
 
+import os
 import pandas as pd
 import numpy as np
 import time
