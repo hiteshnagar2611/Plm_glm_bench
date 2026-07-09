@@ -1,134 +1,324 @@
-# ClinVar Benchmark Dataset for PLM and Genome Model Evaluation
+# ClinVar Benchmark V3: Protein & DNA Language Model Evaluation
 
-This dataset provides filtered ClinVar variants for benchmarking protein language models (PLMs) and genome models on pathogenic prediction tasks.
+Benchmark for evaluating protein language models (PLMs) and DNA/genomic foundation models on variant pathogenicity prediction using ClinVar data.
 
-## Dataset Overview
+## Benchmark Summary
 
-| Metric | Count |
+| Metric | Value |
 |--------|-------|
-| **Total variants** | 1,426,842 |
-| **Pathogenic** | 72,027 |
-| **Likely pathogenic** | 97,747 |
-| **Benign** | 173,062 |
-| **Likely benign** | 1,084,006 |
-| **Missense** | 265,487 |
-| **Synonymous** | 668,285 |
+| **Total variants** | 5,932 |
+| **Genes** | 973 |
+| **Pathogenic** | 3,625 |
+| **Benign** | 2,307 |
+| **Chromosomes** | 24 (1-22, X, Y) |
 
-## Output Files
+## Results (AUROC)
 
-### 1. `clinvar_benchmark_full.csv` (215MB)
-Complete dataset with all filtered variants and annotations.
+| Model | Type | AUROC | Variants Scored |
+|-------|------|-------|-----------------|
+| **ESM1b-650M** | Protein | **0.873** | 5,917 |
+| ESM2-650M | Protein | 0.838 | 5,917 |
+| SaProt-650M | Protein | 0.833 | 5,052 |
+| NT-v2-500M | DNA | 0.638 | 5,932 |
+| AlphaGenome | DNA | 0.552 | 5,776 |
+| ProtT5-XL | Protein | 0.536 | 5,917 |
+| HyenaDNA-150M | DNA | 0.448 | 5,932 |
 
-**Columns:**
-- `VariationID` - ClinVar variation ID
-- `GeneSymbol` - Gene symbol
-- `Chromosome` - Chromosome (1-22, X, Y)
-- `PositionVCF` - Genomic position (GRCh38)
-- `ReferenceAlleleVCF` / `AlternateAlleleVCF` - Alleles
-- `ClinVar_label` - 0=Benign, 0.1=Likely benign, 1=Pathogenic, 1.1=Likely pathogenic
-- `gold_stars` - Review status (1-4 stars)
-- `MANE_transcript_id` - MANE Select transcript ID
-- `MANE_gene` - Gene from MANE annotation
-- `MANE_strand` - Strand (+/-)
-- `raw_protein_change` - Original HGVS protein change
-- `amino_acid_change` - Parsed AA change (e.g., R123H)
-- `ref_aa` / `alt_aa` - Reference/alternate amino acids
-- `aa_position` - Amino acid position
-- `variant_type` - missense/synonymous/other
-- `RCVaccession` - RCV accessions
-- `PhenotypeList` - Associated phenotypes
-- `ClinicalSignificance` - Original clinical significance text
+## Models Evaluated
 
-### 2. `clinvar_missense_protein.csv` (153MB)
-Missense and synonymous variants for **protein language models**:
-- ESM2, ESM3, SaProt, ProtT5
+### Protein Language Models
+| Model | Parameters | Scoring Method | Source |
+|-------|-----------|----------------|--------|
+| ESM1b-650M | 650M | Log-likelihood ratio (LLR) | Facebook AI |
+| ESM2-650M | 650M | Log-likelihood ratio (LLR) | Facebook AI |
+| SaProt-650M | 650M | LLR + Foldseek 3Di tokens | Westlake University |
+| ProtT5-XL | 3B | Cosine similarity (encoder) | Rost Lab |
 
-Use `amino_acid_change`, `ref_aa`, `alt_aa`, `aa_position` for protein-level analysis.
+### DNA/Genomic Models
+| Model | Parameters | Scoring Method | Source |
+|-------|-----------|----------------|--------|
+| NT-v2-500M | 500M | Hidden state delta | InstaDeep |
+| AlphaGenome | 1.2B | Embedding delta (cosine) | Google DeepMind |
+| HyenaDNA-150M | 150M | Log-likelihood ratio (LLR) | Stanford |
 
-### 3. `clinvar_benchmark_dna.csv` (159MB)
-All variants formatted for **genome models**:
-- AlphaGenome, EVO2, NT-v2, HyenaDNA
+## Repository Structure
 
-Use `Chromosome`, `PositionVCF`, `ReferenceAlleleVCF`, `AlternateAlleleVCF` for DNA-level analysis.
-
-### 4. `clinvar_benchmark.vcf` (117MB)
-Standard VCF format for tools that require VCF input.
-
-## Filtering Criteria
-
-1. **Assembly**: GRCh38 only
-2. **Variant type**: Single nucleotide variants (SNVs) only
-3. **Origin**: Germline only (somatic excluded)
-4. **Chromosomes**: 1-22, X, Y only
-5. **Clinical significance**: Pathogenic, Likely pathogenic, Benign, Likely benign
-6. **Review status**: Gold stars >= 1 (at least one submitter with criteria)
-7. **Alleles**: REF and ALT must be single nucleotides (A/T/C/G)
-
-## Usage Examples
-
-### For Protein Models (ESM2, ESM3, SaProt, ProtT5)
-
-```python
-import pandas as pd
-
-# Load missense variants
-df = pd.read_csv('clinvar_missense_protein.csv')
-
-# Filter for missense only
-missense = df[df['variant_type'] == 'missense']
-
-# Get protein change info
-for _, row in missense.head(10).iterrows():
-    print(f"{row['GeneSymbol']}: {row['amino_acid_change']}")
-    # e.g., "HFE: Q283P"
+```
+Plm_glm_bench/
+├── benchmark_v3/
+│   ├── data/
+│   │   ├── benchmark_v3.csv          # Main benchmark file
+│   │   ├── protein_sequences.csv     # Protein sequences for 973 genes
+│   │   ├── alphafold_structures/     # AlphaFold PDB files (991 structures)
+│   │   ├── alphafold_3di/            # Foldseek 3Di codes
+│   │   └── gene_to_uniprot.csv       # Gene to UniProt mappings
+│   ├── results/
+│   │   ├── esm1b_scores.csv          # ESM1b scoring results
+│   │   ├── esm2_650m_scores.csv      # ESM2 scoring results
+│   │   ├── saprot_scores.csv         # SaProt scoring results
+│   │   ├── prott5_scores.csv         # ProtT5 scoring results
+│   │   ├── ntv2_scores.csv           # NT-v2 scoring results
+│   │   ├── alphagenome_scores.csv    # AlphaGenome scoring results
+│   │   ├── hyena_scores.csv          # HyenaDNA scoring results
+│   │   └── benchmark_summary.csv     # Summary statistics
+│   └── figures/
+│       ├── fig1_auroc_comparison.png
+│       ├── fig2_roc_curves.png
+│       ├── fig3_score_distributions.png
+│       ├── fig4_per_gene_auroc.png
+│       ├── fig5_summary_table.png
+│       ├── fig6_spearman_scatter.png
+│       ├── fig_literature_comparison.png
+│       └── fig_literature_comparison_spearman.png
+├── scripts/
+│   ├── v3_download_proteins.py       # Step 1: Download protein sequences
+│   ├── v3_download_alphafold.py      # Step 2: Download AlphaFold structures
+│   ├── v3_extract_3di.py             # Step 3: Extract 3Di codes
+│   ├── v3_construct_benchmark.py     # Step 4: Construct benchmark CSV
+│   ├── v3_extract_dna.py             # Step 5: Extract DNA sequences
+│   ├── v3_score_esm2.py              # Step 6: Score with ESM2
+│   ├── v3_score_esm1b.py             # Step 7: Score with ESM1b
+│   ├── v3_score_prott5.py            # Step 8: Score with ProtT5
+│   ├── v3_score_saprot.py            # Step 9: Score with SaProt
+│   ├── v3_score_ntv2.py              # Step 10: Score with NT-v2
+│   ├── v3_score_alphagenome.py       # Step 11: Score with AlphaGenome
+│   ├── v3_score_hyenadna.py          # Step 12: Score with HyenaDNA
+│   ├── v3_evaluate.py                # Step 13: Evaluate and generate figures
+│   ├── v3_literature_comparison.py   # Literature comparison (AUROC)
+│   ├── v3_literature_comparison_spearman.py  # Literature comparison (Spearman)
+│   ├── v3_run_pipeline.py            # Run full pipeline
+│   └── v3_score_all.sh               # Score all models sequentially
+├── .gitignore
+└── README.md
 ```
 
-### For Genome Models (EVO2, NT-v2, HyenaDNA)
+## Quick Start
 
-```python
-import pandas as pd
+### Option 1: Run Full Pipeline
 
-# Load DNA dataset
-df = pd.read_csv('clinvar_benchmark_dna.csv')
-
-# Get variants for a specific region
-region = df[(df['Chromosome'] == '17') & 
-            (df['PositionVCF'].between(43044295, 43125483))]
-
-# Format for model input
-for _, row in region.iterrows():
-    chrom = row['Chromosome']
-    pos = row['PositionVCF']
-    ref = row['ReferenceAlleleVCF']
-    alt = row['AlternateAlleleVCF']
-    label = row['ClinVar_label']
-    print(f"chr{chrom}:{pos} {ref}>{alt} (label={label})")
+```bash
+python scripts/v3_run_pipeline.py
 ```
 
-### Computing AUROC
+This runs all 13 steps sequentially:
+1. Download protein sequences (NCBI)
+2. Download AlphaFold structures
+3. Extract 3Di codes (Foldseek)
+4. Construct benchmark CSV
+5. Extract DNA sequences (hg38)
+6-12. Score with 7 models
+13. Evaluate and generate figures
 
-```python
-from sklearn.metrics import roc_auc_score
+### Option 2: Run Individual Steps
 
-# Assuming you have model scores
-# model_scores = your_model.predict(variants)
-# true_labels = (df['ClinVar_label'] >= 1).astype(int)  # Pathogenic=1, Benign=0
+```bash
+# Step 1: Download protein sequences
+python scripts/v3_download_proteins.py
 
-# auroc = roc_auc_score(true_labels, model_scores)
+# Step 2: Download AlphaFold structures
+python scripts/v3_download_alphafold.py
+
+# Step 3: Extract 3Di codes
+python scripts/v3_extract_3di.py
+
+# Step 4: Construct benchmark
+python scripts/v3_construct_benchmark.py
+
+# Step 5: Extract DNA sequences
+python scripts/v3_extract_dna.py
+
+# Step 6-12: Score with models (run in parallel if GPU available)
+python scripts/v3_score_esm2.py
+python scripts/v3_score_esm1b.py
+python scripts/v3_score_prott5.py
+python scripts/v3_score_saprot.py
+python scripts/v3_score_ntv2.py
+python scripts/v3_score_alphagenome.py
+python scripts/v3_score_hyenadna.py
+
+# Step 13: Evaluate
+python scripts/v3_evaluate.py
 ```
 
-## Data Source
+### Option 3: Score All Models Sequentially
 
+```bash
+bash scripts/v3_score_all.sh
+```
+
+## Dependencies
+
+### Required (pip install)
+```bash
+pip install torch torchvision torchaudio
+pip install pandas numpy scipy scikit-learn matplotlib
+pip install transformers esm foldseek
+pip install pysam biopython requests tqdm
+```
+
+### For Specific Models
+
+**ESM2/ESM1b:**
+```bash
+pip install fair-esm  # Facebook's ESM package
+```
+
+**SaProt:**
+```bash
+pip install saprot
+# Requires Foldseek binary: benchmark_200/tools/foldseek/bin/foldseek
+```
+
+**AlphaGenome:**
+```bash
+export ALPHAGENOME_API_KEY="your_api_key_here"
+# Or set in environment: export ALPHAGENOME_API_KEY="..."
+```
+
+**NT-v2:**
+```bash
+# Uses HuggingFace transformers
+pip install transformers
+```
+
+**HyenaDNA:**
+```bash
+pip install hyena-dna
+```
+
+**ProtT5:**
+```bash
+pip install transformers sentencepiece
+```
+
+## Hardware Requirements
+
+| Model | Minimum GPU | Recommended GPU | Time (5,932 variants) |
+|-------|-------------|-----------------|----------------------|
+| ESM2-650M | 8GB VRAM | 16GB+ VRAM | ~30 min |
+| ESM1b-650M | 8GB VRAM | 16GB+ VRAM | ~30 min |
+| SaProt-650M | 8GB VRAM | 16GB+ VRAM | ~1 hr (includes 3Di) |
+| ProtT5-XL | CPU (slow) | GPU | ~16 hrs (CPU) |
+| NT-v2-500M | CPU (slow) | GPU | ~16 hrs (CPU) |
+| AlphaGenome | API | API | ~2 hrs (API calls) |
+| HyenaDNA-150M | 8GB VRAM | 16GB+ VRAM | ~1 hr |
+
+**Note:** ProtT5 and NT-v2 run on CPU by default. GPU acceleration significantly reduces runtime.
+
+## Benchmark Construction
+
+### Filtering Criteria
+1. **Variant type**: Missense only
+2. **Clinical significance**: Pathogenic or Benign only
+3. **Transcript**: MANE Select (single-transcript genes only)
+4. **Protein length**: < 1,001 amino acids
+5. **Structure availability**: AlphaFold DB coverage
+
+### Data Sources
 - **ClinVar**: https://ftp.ncbi.nlm.nih.gov/pub/clinvar/tab_delimited/
 - **MANE**: https://ftp.ncbi.nlm.nih.gov/refseq/MANE/MANE_human/release_1.5/
+- **AlphaFold DB**: https://alphafold.ebi.ac.uk/
+- **Reference genome**: hg38 (GRCh38)
+
+## Scoring Methods
+
+### Protein Models (ESM1b, ESM2, SaProt)
+Log-likelihood ratio (LLR):
+```
+LLR = -log P(mut | context) + log P(wt | context)
+```
+Higher LLR = more pathogenic
+
+### ProtT5
+Cosine similarity between wild-type and mutant encoder representations:
+```
+score = cosine_similarity(enc_wt, enc_mut)
+```
+Lower similarity = more pathogenic (negated for evaluation)
+
+### DNA Models (NT-v2, HyenaDNA)
+- **NT-v2**: Hidden state delta (mean absolute difference)
+- **HyenaDNA**: Log-likelihood ratio (LLR)
+
+### AlphaGenome
+Embedding delta:
+```
+score = cosine_similarity(ref_embedding, alt_embedding)
+```
+
+## Figures
+
+### 1. AUROC Comparison
+`fig1_auroc_comparison.png` - Bar chart comparing AUROC across all models
+
+### 2. ROC Curves
+`fig2_roc_curves.png` - ROC curves for all models
+
+### 3. Score Distributions
+`fig3_score_distributions.png` - Score distributions for pathogenic vs benign
+
+### 4. Per-Gene AUROC
+`fig4_per_gene_auroc.png` - Heatmap of per-gene AUROC
+
+### 5. Summary Table
+`fig5_summary_table.png` - Table with all metrics
+
+### 6. Spearman Scatter
+`fig6_spearman_scatter.png` - Spearman correlation scatter plots
+
+### 7. Literature Comparison (AUROC)
+`fig_literature_comparison.png` - Comparison with published AUROC values
+
+### 8. Literature Comparison (Spearman)
+`fig_literature_comparison_spearman.png` - Comparison with published Spearman values
+
+## Literature Comparison
+
+| Model | Our V3 | Literature | Delta | Literature Source |
+|-------|--------|------------|-------|-------------------|
+| ESM1b-650M | 0.873 | 0.905 | -0.032 | Brandes et al., Nature Genetics 2023 |
+| ESM2-650M | 0.838 | 0.862 | -0.024 | SaProt paper, ICLR 2024 |
+| SaProt-650M | 0.833 | 0.909 | -0.076 | SaProt paper, ICLR 2024 |
+| NT-v2-500M | 0.638 | 0.780 | -0.142 | Dalla-Torre et al., Nature Methods 2025 |
+| AlphaGenome | 0.552 | N/A | — | Avsec et al., Nature 2026 |
+| ProtT5-XL | 0.536 | 0.610 | -0.074 | Elnaggar et al. 2022 |
+| HyenaDNA-150M | 0.448 | 0.550 | -0.102 | Nguyen et al. 2023 |
+
+**Note:** Literature values are from larger ClinVar datasets (30k-100k variants). Our V3 benchmark uses 5,932 variants across 973 genes with strict filtering.
+
+## Environment Variables
+
+Some models require API keys:
+
+```bash
+# AlphaGenome (Google DeepMind)
+export ALPHAGENOME_API_KEY="your_key"
+
+# HuggingFace (for model downloads)
+export HF_TOKEN="your_token"
+
+# NVIDIA (for some DNA models)
+export NVIDIA_API_KEY="your_key"
+```
 
 ## Citation
 
-If you use this dataset, please cite:
-- ClinVar: https://www.ncbi.nlm.nih.gov/clinvar/
-- MANE: https://www.ncbi.nlm.nih.gov/refseq/MANE/
+If you use this benchmark, please cite:
 
-## Scripts
+```bibtex
+@article{plm_benchmark_v3,
+  title={ClinVar Benchmark V3: Protein and DNA Language Model Evaluation},
+  author={Hitesh Nagar},
+  year={2025},
+  url={https://github.com/hiteshnagar2611/Plm_glm_bench}
+}
+```
 
-- `scripts/step1_basic_filter.py` - Basic ClinVar filtering
-- `scripts/step2_mane_annotate.py` - MANE annotation and output generation
+## License
+
+This project is open source. See the repository for license details.
+
+## Contact
+
+For questions or issues, please open a GitHub issue at:
+https://github.com/hiteshnagar2611/Plm_glm_bench/issues
