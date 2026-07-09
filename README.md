@@ -92,6 +92,25 @@ Plm_glm_bench/
 └── README.md
 ```
 
+## Reference Genome Setup
+
+The DNA sequence extraction requires the hg38 reference genome. Download and set up:
+
+```bash
+# Download hg38 reference genome
+wget https://hgdownload.soe.ucsc.edu/goldenPath/hg38/bigZips/hg38.fa.gz
+gunzip hg38.fa.gz
+
+# Create reference directory
+mkdir -p reference
+mv hg38.fa reference/
+
+# Update script path (if running DNA extraction)
+# Edit scripts/v3_extract_dna.py: REF_PATH = 'reference/hg38.fa'
+```
+
+**Note:** The `benchmark_v3/data/dna_sequences.csv` file contains pre-extracted 6001bp sequences for all 5,932 variants. You only need the reference genome if re-running DNA extraction.
+
 ## Quick Start
 
 ### Option 1: Run Full Pipeline
@@ -218,7 +237,9 @@ pip install transformers sentencepiece
 - **ClinVar**: https://ftp.ncbi.nlm.nih.gov/pub/clinvar/tab_delimited/
 - **MANE**: https://ftp.ncbi.nlm.nih.gov/refseq/MANE/MANE_human/release_1.5/
 - **AlphaFold DB**: https://alphafold.ebi.ac.uk/
-- **Reference genome**: hg38 (GRCh38)
+- **Reference genome**: hg38 (GRCh38.p14) - UCSC Genome Browser
+  - Download: https://hgdownload.soe.ucsc.edu/goldenPath/hg38/bigZips/hg38.fa.gz
+  - Or GDC version: https://gdc.cancer.gov/files/public/file/GRCh38.d1.vd1.fa
 
 ## Scoring Methods
 
