@@ -1,14 +1,4 @@
 # Data files (too large for git)
-benchmark_200/data/
-benchmark_v2/data/alphafold_structures/
-benchmark_v2/data/alphafold_3di/
-benchmark_v2/data/openfold_structures/
-benchmark_v2/data/openfold_3di/
-benchmark_v2/data/saprot_3di/
-benchmark_v2/data/protein_sequences.csv
-benchmark_v2/data/protein_sequences_all.csv
-benchmark_v2/data/proteins.fasta
-benchmark_v2/data/dna_sequences.csv
 benchmark_v3/data/alphafold_structures/
 benchmark_v3/data/alphafold_3di/
 benchmark_v3/data/saprot_3di/
@@ -19,20 +9,11 @@ benchmark_v3/data/dna_sequences.csv
 benchmark_v3/data/benchmark_v3.csv
 benchmark_v3/data/benchmark_v3.tsv
 benchmark_v3/data/gene_to_uniprot.csv
-data/processed/
-data/raw/
-
-# Model weights and tools
-benchmark_200/tools/
 
 # Results (score CSVs are generated)
-benchmark_200/results/
-benchmark_v2/results/
 benchmark_v3/results/
 
 # Figures (generated)
-benchmark_200/figures/
-benchmark_v2/figures/
 benchmark_v3/figures/
 
 # Python
