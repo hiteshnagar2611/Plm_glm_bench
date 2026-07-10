@@ -1,0 +1,6771 @@
+[
+  {
+    "gene": "AAAS",
+    "uniprot": "Q9NRG9",
+    "n_variants": 4,
+    "n_pathogenic": 4,
+    "n_benign": 0
+  },
+  {
+    "gene": "ABCB7",
+    "uniprot": "O75027",
+    "n_variants": 12,
+    "n_pathogenic": 1,
+    "n_benign": 11
+  },
+  {
+    "gene": "ABCD3",
+    "uniprot": "P28288",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "ABCD4",
+    "uniprot": "O14678",
+    "n_variants": 5,
+    "n_pathogenic": 1,
+    "n_benign": 4
+  },
+  {
+    "gene": "ABHD5",
+    "uniprot": "Q8WTS1",
+    "n_variants": 2,
+    "n_pathogenic": 1,
+    "n_benign": 1
+  },
+  {
+    "gene": "ACAD9",
+    "uniprot": "Q9H845",
+    "n_variants": 2,
+    "n_pathogenic": 1,
+    "n_benign": 1
+  },
+  {
+    "gene": "ACKR3",
+    "uniprot": "P25106",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "ACR",
+    "uniprot": "P10323",
+    "n_variants": 3,
+    "n_pathogenic": 0,
+    "n_benign": 3
+  },
+  {
+    "gene": "ACTA1",
+    "uniprot": "P68133",
+    "n_variants": 78,
+    "n_pathogenic": 78,
+    "n_benign": 0
+  },
+  {
+    "gene": "ACTA2",
+    "uniprot": "P62736",
+    "n_variants": 10,
+    "n_pathogenic": 10,
+    "n_benign": 0
+  },
+  {
+    "gene": "ACTB",
+    "uniprot": "P60709",
+    "n_variants": 25,
+    "n_pathogenic": 25,
+    "n_benign": 0
+  },
+  {
+    "gene": "ACTL6A",
+    "uniprot": "O96019",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "ADA",
+    "uniprot": "P00813",
+    "n_variants": 13,
+    "n_pathogenic": 10,
+    "n_benign": 3
+  },
+  {
+    "gene": "ADA2",
+    "uniprot": "Q9NZK5",
+    "n_variants": 11,
+    "n_pathogenic": 11,
+    "n_benign": 0
+  },
+  {
+    "gene": "ADM",
+    "uniprot": "P35318",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "ADRM1",
+    "uniprot": "Q16186",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "AFP",
+    "uniprot": "P02771",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "AGA",
+    "uniprot": "P20933",
+    "n_variants": 7,
+    "n_pathogenic": 6,
+    "n_benign": 1
+  },
+  {
+    "gene": "AGXT",
+    "uniprot": "P21549",
+    "n_variants": 24,
+    "n_pathogenic": 22,
+    "n_benign": 2
+  },
+  {
+    "gene": "AHR",
+    "uniprot": "P35869",
+    "n_variants": 4,
+    "n_pathogenic": 0,
+    "n_benign": 4
+  },
+  {
+    "gene": "AIP",
+    "uniprot": "O00170",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "AIPL1",
+    "uniprot": "Q9NZN9",
+    "n_variants": 17,
+    "n_pathogenic": 8,
+    "n_benign": 9
+  },
+  {
+    "gene": "AK1",
+    "uniprot": "P00568",
+    "n_variants": 2,
+    "n_pathogenic": 1,
+    "n_benign": 1
+  },
+  {
+    "gene": "AKT1",
+    "uniprot": "P31749",
+    "n_variants": 1,
+    "n_pathogenic": 1,
+    "n_benign": 0
+  },
+  {
+    "gene": "ALG12",
+    "uniprot": "Q9BV10",
+    "n_variants": 3,
+    "n_pathogenic": 0,
+    "n_benign": 3
+  },
+  {
+    "gene": "ALG9",
+    "uniprot": "Q9H6U8",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "ALOX12",
+    "uniprot": "P18054",
+    "n_variants": 4,
+    "n_pathogenic": 0,
+    "n_benign": 4
+  },
+  {
+    "gene": "ALOX15B",
+    "uniprot": "O15296",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "ANG",
+    "uniprot": "P03950",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "ANXA2",
+    "uniprot": "P07355",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "APCDD1",
+    "uniprot": "Q8J025",
+    "n_variants": 4,
+    "n_pathogenic": 0,
+    "n_benign": 4
+  },
+  {
+    "gene": "APEX1",
+    "uniprot": "P27695",
+    "n_variants": 3,
+    "n_pathogenic": 0,
+    "n_benign": 3
+  },
+  {
+    "gene": "APOE",
+    "uniprot": "P02649",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "APP",
+    "uniprot": "P05067",
+    "n_variants": 16,
+    "n_pathogenic": 12,
+    "n_benign": 4
+  },
+  {
+    "gene": "AR",
+    "uniprot": "P10275",
+    "n_variants": 71,
+    "n_pathogenic": 53,
+    "n_benign": 18
+  },
+  {
+    "gene": "ARAF",
+    "uniprot": "P10398",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "ARF1",
+    "uniprot": "P84077",
+    "n_variants": 6,
+    "n_pathogenic": 6,
+    "n_benign": 0
+  },
+  {
+    "gene": "ARG1",
+    "uniprot": "P05089",
+    "n_variants": 12,
+    "n_pathogenic": 12,
+    "n_benign": 0
+  },
+  {
+    "gene": "ARPC1B",
+    "uniprot": "O15143",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "ARSA",
+    "uniprot": "P15289",
+    "n_variants": 46,
+    "n_pathogenic": 42,
+    "n_benign": 4
+  },
+  {
+    "gene": "ARSB",
+    "uniprot": "P15848",
+    "n_variants": 16,
+    "n_pathogenic": 12,
+    "n_benign": 4
+  },
+  {
+    "gene": "ARSD",
+    "uniprot": "P51689",
+    "n_variants": 3,
+    "n_pathogenic": 0,
+    "n_benign": 3
+  },
+  {
+    "gene": "ARSH",
+    "uniprot": "",
+    "n_variants": 7,
+    "n_pathogenic": 0,
+    "n_benign": 7
+  },
+  {
+    "gene": "ARVCF",
+    "uniprot": "O00192",
+    "n_variants": 9,
+    "n_pathogenic": 0,
+    "n_benign": 9
+  },
+  {
+    "gene": "ASL",
+    "uniprot": "P04424",
+    "n_variants": 13,
+    "n_pathogenic": 12,
+    "n_benign": 1
+  },
+  {
+    "gene": "ASNS",
+    "uniprot": "P08243",
+    "n_variants": 5,
+    "n_pathogenic": 4,
+    "n_benign": 1
+  },
+  {
+    "gene": "ASPA",
+    "uniprot": "P45381",
+    "n_variants": 8,
+    "n_pathogenic": 7,
+    "n_benign": 1
+  },
+  {
+    "gene": "ATG16L1",
+    "uniprot": "Q676U5",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "ATG4A",
+    "uniprot": "Q8WYN0",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "ATG5",
+    "uniprot": "Q9H1Y0",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "ATRIP",
+    "uniprot": "Q8WXE1",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "AVP",
+    "uniprot": "P01185",
+    "n_variants": 13,
+    "n_pathogenic": 11,
+    "n_benign": 2
+  },
+  {
+    "gene": "B2M",
+    "uniprot": "P61769",
+    "n_variants": 1,
+    "n_pathogenic": 1,
+    "n_benign": 0
+  },
+  {
+    "gene": "BAAT",
+    "uniprot": "Q14032",
+    "n_variants": 4,
+    "n_pathogenic": 0,
+    "n_benign": 4
+  },
+  {
+    "gene": "BACH2",
+    "uniprot": "Q9BYV9",
+    "n_variants": 3,
+    "n_pathogenic": 0,
+    "n_benign": 3
+  },
+  {
+    "gene": "BAK1",
+    "uniprot": "Q16611",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "BARD1",
+    "uniprot": "Q99728",
+    "n_variants": 3,
+    "n_pathogenic": 0,
+    "n_benign": 3
+  },
+  {
+    "gene": "BBS1",
+    "uniprot": "Q8NFJ9",
+    "n_variants": 5,
+    "n_pathogenic": 4,
+    "n_benign": 1
+  },
+  {
+    "gene": "BBS2",
+    "uniprot": "Q9BXC9",
+    "n_variants": 4,
+    "n_pathogenic": 2,
+    "n_benign": 2
+  },
+  {
+    "gene": "BBS4",
+    "uniprot": "Q96RK4",
+    "n_variants": 5,
+    "n_pathogenic": 3,
+    "n_benign": 2
+  },
+  {
+    "gene": "BBS5",
+    "uniprot": "Q8N3I7",
+    "n_variants": 3,
+    "n_pathogenic": 3,
+    "n_benign": 0
+  },
+  {
+    "gene": "BBS7",
+    "uniprot": "Q8IWZ6",
+    "n_variants": 4,
+    "n_pathogenic": 4,
+    "n_benign": 0
+  },
+  {
+    "gene": "BBS9",
+    "uniprot": "Q3SYG4",
+    "n_variants": 3,
+    "n_pathogenic": 0,
+    "n_benign": 3
+  },
+  {
+    "gene": "BBX",
+    "uniprot": "Q8WY36",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "BCHE",
+    "uniprot": "P06276",
+    "n_variants": 3,
+    "n_pathogenic": 3,
+    "n_benign": 0
+  },
+  {
+    "gene": "BDNF",
+    "uniprot": "P23560",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "BEST1",
+    "uniprot": "O76090",
+    "n_variants": 86,
+    "n_pathogenic": 86,
+    "n_benign": 0
+  },
+  {
+    "gene": "BICD2",
+    "uniprot": "Q8TD16",
+    "n_variants": 15,
+    "n_pathogenic": 9,
+    "n_benign": 6
+  },
+  {
+    "gene": "BMP2",
+    "uniprot": "P12643",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "BMP6",
+    "uniprot": "P22004",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "BMX",
+    "uniprot": "P51813",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "BPI",
+    "uniprot": "P17213",
+    "n_variants": 7,
+    "n_pathogenic": 0,
+    "n_benign": 7
+  },
+  {
+    "gene": "BRAF",
+    "uniprot": "P15056",
+    "n_variants": 49,
+    "n_pathogenic": 45,
+    "n_benign": 4
+  },
+  {
+    "gene": "BROX",
+    "uniprot": "Q5VW32",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "BRSK2",
+    "uniprot": "A0A140VJF6",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "BST1",
+    "uniprot": "Q10588",
+    "n_variants": 3,
+    "n_pathogenic": 0,
+    "n_benign": 3
+  },
+  {
+    "gene": "BTD",
+    "uniprot": "P43251",
+    "n_variants": 26,
+    "n_pathogenic": 26,
+    "n_benign": 0
+  },
+  {
+    "gene": "BTK",
+    "uniprot": "Q06187",
+    "n_variants": 38,
+    "n_pathogenic": 36,
+    "n_benign": 2
+  },
+  {
+    "gene": "BUD13",
+    "uniprot": "Q9BRD0",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "C1R",
+    "uniprot": "P00736",
+    "n_variants": 12,
+    "n_pathogenic": 10,
+    "n_benign": 2
+  },
+  {
+    "gene": "C1S",
+    "uniprot": "P09871",
+    "n_variants": 1,
+    "n_pathogenic": 1,
+    "n_benign": 0
+  },
+  {
+    "gene": "C6",
+    "uniprot": "P13671",
+    "n_variants": 9,
+    "n_pathogenic": 0,
+    "n_benign": 9
+  },
+  {
+    "gene": "C7",
+    "uniprot": "P10643",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "C9",
+    "uniprot": "P02748",
+    "n_variants": 3,
+    "n_pathogenic": 0,
+    "n_benign": 3
+  },
+  {
+    "gene": "C9orf72",
+    "uniprot": "Q96LT7",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "CA1",
+    "uniprot": "P00915",
+    "n_variants": 3,
+    "n_pathogenic": 0,
+    "n_benign": 3
+  },
+  {
+    "gene": "CA14",
+    "uniprot": "Q9ULX7",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "CA2",
+    "uniprot": "P00918",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "CA4",
+    "uniprot": "P22748",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "CABP4",
+    "uniprot": "P57796",
+    "n_variants": 4,
+    "n_pathogenic": 1,
+    "n_benign": 3
+  },
+  {
+    "gene": "CALHM1",
+    "uniprot": "Q8IU99",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "CAMP",
+    "uniprot": "",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "CAPG",
+    "uniprot": "P40121",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "CAPS",
+    "uniprot": "",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "CARF",
+    "uniprot": "Q8N187",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "CASK",
+    "uniprot": "O14936",
+    "n_variants": 15,
+    "n_pathogenic": 7,
+    "n_benign": 8
+  },
+  {
+    "gene": "CAST",
+    "uniprot": "P20810",
+    "n_variants": 9,
+    "n_pathogenic": 0,
+    "n_benign": 9
+  },
+  {
+    "gene": "CAT",
+    "uniprot": "P04040",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "CBL",
+    "uniprot": "P22681",
+    "n_variants": 4,
+    "n_pathogenic": 2,
+    "n_benign": 2
+  },
+  {
+    "gene": "CBS",
+    "uniprot": "P35520",
+    "n_variants": 18,
+    "n_pathogenic": 18,
+    "n_benign": 0
+  },
+  {
+    "gene": "CCR5",
+    "uniprot": "P51681",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "CCZ1",
+    "uniprot": "P86791",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "CD14",
+    "uniprot": "P08571",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "CD160",
+    "uniprot": "O95971",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "CD177",
+    "uniprot": "Q8N6Q3",
+    "n_variants": 4,
+    "n_pathogenic": 0,
+    "n_benign": 4
+  },
+  {
+    "gene": "CD180",
+    "uniprot": "Q99467",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "CD19",
+    "uniprot": "P15391",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "CD1A",
+    "uniprot": "P06126",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "CD1B",
+    "uniprot": "P29016",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "CD1C",
+    "uniprot": "P29017",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "CD1D",
+    "uniprot": "P15813",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "CD1E",
+    "uniprot": "P15812",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "CD207",
+    "uniprot": "Q9UJ71",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "CD22",
+    "uniprot": "P20273",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "CD27",
+    "uniprot": "P26842",
+    "n_variants": 3,
+    "n_pathogenic": 1,
+    "n_benign": 2
+  },
+  {
+    "gene": "CD320",
+    "uniprot": "Q9NPF0",
+    "n_variants": 4,
+    "n_pathogenic": 0,
+    "n_benign": 4
+  },
+  {
+    "gene": "CD33",
+    "uniprot": "P20138",
+    "n_variants": 10,
+    "n_pathogenic": 0,
+    "n_benign": 10
+  },
+  {
+    "gene": "CD4",
+    "uniprot": "P01730",
+    "n_variants": 4,
+    "n_pathogenic": 0,
+    "n_benign": 4
+  },
+  {
+    "gene": "CD40",
+    "uniprot": "P25942",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "CD44",
+    "uniprot": "",
+    "n_variants": 3,
+    "n_pathogenic": 0,
+    "n_benign": 3
+  },
+  {
+    "gene": "CD48",
+    "uniprot": "P09326",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "CD5",
+    "uniprot": "P06127",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "CD55",
+    "uniprot": "P08174",
+    "n_variants": 4,
+    "n_pathogenic": 2,
+    "n_benign": 2
+  },
+  {
+    "gene": "CD59",
+    "uniprot": "P13987",
+    "n_variants": 2,
+    "n_pathogenic": 2,
+    "n_benign": 0
+  },
+  {
+    "gene": "CD80",
+    "uniprot": "P33681",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "CD83",
+    "uniprot": "Q01151",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "CD86",
+    "uniprot": "P42081",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "CD8A",
+    "uniprot": "P01732",
+    "n_variants": 1,
+    "n_pathogenic": 1,
+    "n_benign": 0
+  },
+  {
+    "gene": "CD93",
+    "uniprot": "Q9NPY3",
+    "n_variants": 4,
+    "n_pathogenic": 0,
+    "n_benign": 4
+  },
+  {
+    "gene": "CDC14A",
+    "uniprot": "Q9UNH5",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "CDC25A",
+    "uniprot": "P30304",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "CDC37",
+    "uniprot": "Q16543",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "CDC42",
+    "uniprot": "P60953",
+    "n_variants": 8,
+    "n_pathogenic": 8,
+    "n_benign": 0
+  },
+  {
+    "gene": "CDC73",
+    "uniprot": "Q6P1J9",
+    "n_variants": 6,
+    "n_pathogenic": 6,
+    "n_benign": 0
+  },
+  {
+    "gene": "CDH1",
+    "uniprot": "P12830",
+    "n_variants": 36,
+    "n_pathogenic": 9,
+    "n_benign": 27
+  },
+  {
+    "gene": "CDK4",
+    "uniprot": "P11802",
+    "n_variants": 2,
+    "n_pathogenic": 2,
+    "n_benign": 0
+  },
+  {
+    "gene": "CDKN1A",
+    "uniprot": "P38936",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "CDT1",
+    "uniprot": "Q9H211",
+    "n_variants": 10,
+    "n_pathogenic": 0,
+    "n_benign": 10
+  },
+  {
+    "gene": "CEACAM5",
+    "uniprot": "P06731",
+    "n_variants": 10,
+    "n_pathogenic": 0,
+    "n_benign": 10
+  },
+  {
+    "gene": "CEACAM6",
+    "uniprot": "P40199",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "CEL",
+    "uniprot": "P19835",
+    "n_variants": 10,
+    "n_pathogenic": 0,
+    "n_benign": 10
+  },
+  {
+    "gene": "CEP104",
+    "uniprot": "O60308",
+    "n_variants": 4,
+    "n_pathogenic": 0,
+    "n_benign": 4
+  },
+  {
+    "gene": "CEP120",
+    "uniprot": "Q8N960",
+    "n_variants": 5,
+    "n_pathogenic": 0,
+    "n_benign": 5
+  },
+  {
+    "gene": "CETP",
+    "uniprot": "P11597",
+    "n_variants": 4,
+    "n_pathogenic": 0,
+    "n_benign": 4
+  },
+  {
+    "gene": "CFAP45",
+    "uniprot": "Q9UL16",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "CFAP52",
+    "uniprot": "Q8N1V2",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "CFAP53",
+    "uniprot": "Q96M91",
+    "n_variants": 4,
+    "n_pathogenic": 0,
+    "n_benign": 4
+  },
+  {
+    "gene": "CFAP91",
+    "uniprot": "Q7Z4T9",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "CFAP97",
+    "uniprot": "",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "CFP",
+    "uniprot": "P27918",
+    "n_variants": 5,
+    "n_pathogenic": 1,
+    "n_benign": 4
+  },
+  {
+    "gene": "CHAD",
+    "uniprot": "O15335",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "CHAT",
+    "uniprot": "P28329",
+    "n_variants": 10,
+    "n_pathogenic": 4,
+    "n_benign": 6
+  },
+  {
+    "gene": "CHIA",
+    "uniprot": "Q9BZP6",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "CHM",
+    "uniprot": "P24386",
+    "n_variants": 12,
+    "n_pathogenic": 2,
+    "n_benign": 10
+  },
+  {
+    "gene": "CIB1",
+    "uniprot": "Q99828",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "CIP2A",
+    "uniprot": "Q8TCG1",
+    "n_variants": 3,
+    "n_pathogenic": 0,
+    "n_benign": 3
+  },
+  {
+    "gene": "CLCA1",
+    "uniprot": "A8K7I4",
+    "n_variants": 4,
+    "n_pathogenic": 0,
+    "n_benign": 4
+  },
+  {
+    "gene": "CLEC4F",
+    "uniprot": "Q8N1N0",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "CLPB",
+    "uniprot": "Q9H078",
+    "n_variants": 2,
+    "n_pathogenic": 1,
+    "n_benign": 1
+  },
+  {
+    "gene": "CLPX",
+    "uniprot": "O76031",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "CLU",
+    "uniprot": "P10909",
+    "n_variants": 3,
+    "n_pathogenic": 0,
+    "n_benign": 3
+  },
+  {
+    "gene": "CNNM2",
+    "uniprot": "Q9H8M5",
+    "n_variants": 7,
+    "n_pathogenic": 6,
+    "n_benign": 1
+  },
+  {
+    "gene": "CNNM4",
+    "uniprot": "Q6P4Q7",
+    "n_variants": 1,
+    "n_pathogenic": 1,
+    "n_benign": 0
+  },
+  {
+    "gene": "COG4",
+    "uniprot": "Q9H9E3",
+    "n_variants": 2,
+    "n_pathogenic": 1,
+    "n_benign": 1
+  },
+  {
+    "gene": "COG7",
+    "uniprot": "P83436",
+    "n_variants": 2,
+    "n_pathogenic": 1,
+    "n_benign": 1
+  },
+  {
+    "gene": "COIL",
+    "uniprot": "P38432",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "COMP",
+    "uniprot": "P49747",
+    "n_variants": 45,
+    "n_pathogenic": 44,
+    "n_benign": 1
+  },
+  {
+    "gene": "COMT",
+    "uniprot": "P21964",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "COP1",
+    "uniprot": "Q8NHY2",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "COQ8A",
+    "uniprot": "Q8NI60",
+    "n_variants": 5,
+    "n_pathogenic": 5,
+    "n_benign": 0
+  },
+  {
+    "gene": "COQ8B",
+    "uniprot": "Q96D53",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "COQ9",
+    "uniprot": "O75208",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "COX7B",
+    "uniprot": "P24311",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "CPT2",
+    "uniprot": "P23786",
+    "n_variants": 8,
+    "n_pathogenic": 6,
+    "n_benign": 2
+  },
+  {
+    "gene": "CRADD",
+    "uniprot": "P78560",
+    "n_variants": 4,
+    "n_pathogenic": 2,
+    "n_benign": 2
+  },
+  {
+    "gene": "CSF1R",
+    "uniprot": "P07333",
+    "n_variants": 27,
+    "n_pathogenic": 9,
+    "n_benign": 18
+  },
+  {
+    "gene": "CSF3",
+    "uniprot": "P09919",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "CSH2",
+    "uniprot": "P0DML3",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "CSK",
+    "uniprot": "P41240",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "CSNK2A1",
+    "uniprot": "P68400",
+    "n_variants": 14,
+    "n_pathogenic": 14,
+    "n_benign": 0
+  },
+  {
+    "gene": "CTCF",
+    "uniprot": "P49711",
+    "n_variants": 9,
+    "n_pathogenic": 9,
+    "n_benign": 0
+  },
+  {
+    "gene": "CTH",
+    "uniprot": "P32929",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "CUL3",
+    "uniprot": "Q13618",
+    "n_variants": 4,
+    "n_pathogenic": 3,
+    "n_benign": 1
+  },
+  {
+    "gene": "CWC22",
+    "uniprot": "Q9HCG8",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "CWC27",
+    "uniprot": "Q6UX04",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "CX3CL1",
+    "uniprot": "P78423",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "CXCR2",
+    "uniprot": "P25025",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "CYC1",
+    "uniprot": "P08574",
+    "n_variants": 2,
+    "n_pathogenic": 1,
+    "n_benign": 1
+  },
+  {
+    "gene": "CYLD",
+    "uniprot": "Q9NQC7",
+    "n_variants": 5,
+    "n_pathogenic": 2,
+    "n_benign": 3
+  },
+  {
+    "gene": "CYP11A1",
+    "uniprot": "P05108",
+    "n_variants": 1,
+    "n_pathogenic": 1,
+    "n_benign": 0
+  },
+  {
+    "gene": "CYP17A1",
+    "uniprot": "P05093",
+    "n_variants": 16,
+    "n_pathogenic": 16,
+    "n_benign": 0
+  },
+  {
+    "gene": "DAB1",
+    "uniprot": "O75553",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "DAP3",
+    "uniprot": "P51398",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "DAXX",
+    "uniprot": "Q9UER7",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "DBF4",
+    "uniprot": "Q9UBU7",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "DBH",
+    "uniprot": "P09172",
+    "n_variants": 7,
+    "n_pathogenic": 0,
+    "n_benign": 7
+  },
+  {
+    "gene": "DCT",
+    "uniprot": "P40126",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "DCX",
+    "uniprot": "O43602",
+    "n_variants": 44,
+    "n_pathogenic": 44,
+    "n_benign": 0
+  },
+  {
+    "gene": "DDC",
+    "uniprot": "P20711",
+    "n_variants": 10,
+    "n_pathogenic": 9,
+    "n_benign": 1
+  },
+  {
+    "gene": "DDI1",
+    "uniprot": "Q8WTU0",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "DDN",
+    "uniprot": "O94850",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "DDX10",
+    "uniprot": "Q13206",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "DDX18",
+    "uniprot": "Q9NVP1",
+    "n_variants": 3,
+    "n_pathogenic": 0,
+    "n_benign": 3
+  },
+  {
+    "gene": "DDX20",
+    "uniprot": "Q9UHI6",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "DDX23",
+    "uniprot": "Q9BUQ8",
+    "n_variants": 1,
+    "n_pathogenic": 1,
+    "n_benign": 0
+  },
+  {
+    "gene": "DDX3X",
+    "uniprot": "O00571",
+    "n_variants": 34,
+    "n_pathogenic": 33,
+    "n_benign": 1
+  },
+  {
+    "gene": "DDX4",
+    "uniprot": "Q9NQI0",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "DDX41",
+    "uniprot": "Q9UJV9",
+    "n_variants": 4,
+    "n_pathogenic": 3,
+    "n_benign": 1
+  },
+  {
+    "gene": "DDX50",
+    "uniprot": "Q9BQ39",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "DDX53",
+    "uniprot": "",
+    "n_variants": 3,
+    "n_pathogenic": 0,
+    "n_benign": 3
+  },
+  {
+    "gene": "DDX59",
+    "uniprot": "Q5T1V6",
+    "n_variants": 4,
+    "n_pathogenic": 0,
+    "n_benign": 4
+  },
+  {
+    "gene": "DDX6",
+    "uniprot": "P26196",
+    "n_variants": 1,
+    "n_pathogenic": 1,
+    "n_benign": 0
+  },
+  {
+    "gene": "DEAF1",
+    "uniprot": "O75398",
+    "n_variants": 18,
+    "n_pathogenic": 15,
+    "n_benign": 3
+  },
+  {
+    "gene": "DES",
+    "uniprot": "P17661",
+    "n_variants": 9,
+    "n_pathogenic": 9,
+    "n_benign": 0
+  },
+  {
+    "gene": "DHDDS",
+    "uniprot": "Q86SQ9",
+    "n_variants": 7,
+    "n_pathogenic": 6,
+    "n_benign": 1
+  },
+  {
+    "gene": "DHH",
+    "uniprot": "O43323",
+    "n_variants": 5,
+    "n_pathogenic": 3,
+    "n_benign": 2
+  },
+  {
+    "gene": "DHX58",
+    "uniprot": "Q96C10",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "DIS3",
+    "uniprot": "Q9Y2L1",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "DISC1",
+    "uniprot": "Q9NRI5",
+    "n_variants": 6,
+    "n_pathogenic": 0,
+    "n_benign": 6
+  },
+  {
+    "gene": "DKC1",
+    "uniprot": "O60832",
+    "n_variants": 7,
+    "n_pathogenic": 6,
+    "n_benign": 1
+  },
+  {
+    "gene": "DLD",
+    "uniprot": "P09622",
+    "n_variants": 2,
+    "n_pathogenic": 2,
+    "n_benign": 0
+  },
+  {
+    "gene": "DLG4",
+    "uniprot": "P78352",
+    "n_variants": 3,
+    "n_pathogenic": 2,
+    "n_benign": 1
+  },
+  {
+    "gene": "DMC1",
+    "uniprot": "Q14565",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "DMPK",
+    "uniprot": "Q09013",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "DNAJB8",
+    "uniprot": "Q8NHS0",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "DPAGT1",
+    "uniprot": "Q9H3H5",
+    "n_variants": 2,
+    "n_pathogenic": 1,
+    "n_benign": 1
+  },
+  {
+    "gene": "DPF2",
+    "uniprot": "Q92785",
+    "n_variants": 7,
+    "n_pathogenic": 4,
+    "n_benign": 3
+  },
+  {
+    "gene": "DPP4",
+    "uniprot": "P27487",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "DRAXIN",
+    "uniprot": "Q8NBI3",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "DRC1",
+    "uniprot": "Q96MC2",
+    "n_variants": 9,
+    "n_pathogenic": 0,
+    "n_benign": 9
+  },
+  {
+    "gene": "DRC9",
+    "uniprot": "Q9H095",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "DRP2",
+    "uniprot": "",
+    "n_variants": 4,
+    "n_pathogenic": 0,
+    "n_benign": 4
+  },
+  {
+    "gene": "DTX3L",
+    "uniprot": "Q8TDB6",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "DVL1",
+    "uniprot": "O14640",
+    "n_variants": 19,
+    "n_pathogenic": 0,
+    "n_benign": 19
+  },
+  {
+    "gene": "DVL3",
+    "uniprot": "Q92997",
+    "n_variants": 12,
+    "n_pathogenic": 0,
+    "n_benign": 12
+  },
+  {
+    "gene": "DYRK1A",
+    "uniprot": "Q13627",
+    "n_variants": 42,
+    "n_pathogenic": 6,
+    "n_benign": 36
+  },
+  {
+    "gene": "E2F1",
+    "uniprot": "Q01094",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "E2F2",
+    "uniprot": "Q14209",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "E2F8",
+    "uniprot": "A0AVK6",
+    "n_variants": 3,
+    "n_pathogenic": 0,
+    "n_benign": 3
+  },
+  {
+    "gene": "EBP",
+    "uniprot": "Q15125",
+    "n_variants": 6,
+    "n_pathogenic": 4,
+    "n_benign": 2
+  },
+  {
+    "gene": "ECM1",
+    "uniprot": "Q16610",
+    "n_variants": 6,
+    "n_pathogenic": 0,
+    "n_benign": 6
+  },
+  {
+    "gene": "EDA",
+    "uniprot": "Q92838",
+    "n_variants": 54,
+    "n_pathogenic": 44,
+    "n_benign": 10
+  },
+  {
+    "gene": "EDAR",
+    "uniprot": "Q9UNE0",
+    "n_variants": 15,
+    "n_pathogenic": 12,
+    "n_benign": 3
+  },
+  {
+    "gene": "EED",
+    "uniprot": "O75530",
+    "n_variants": 2,
+    "n_pathogenic": 1,
+    "n_benign": 1
+  },
+  {
+    "gene": "EEF2",
+    "uniprot": "P13639",
+    "n_variants": 2,
+    "n_pathogenic": 2,
+    "n_benign": 0
+  },
+  {
+    "gene": "EEFSEC",
+    "uniprot": "P57772",
+    "n_variants": 3,
+    "n_pathogenic": 0,
+    "n_benign": 3
+  },
+  {
+    "gene": "EFHC2",
+    "uniprot": "Q5JST6",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "EIF3B",
+    "uniprot": "P55884",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "EIF5A",
+    "uniprot": "P63241",
+    "n_variants": 1,
+    "n_pathogenic": 1,
+    "n_benign": 0
+  },
+  {
+    "gene": "ELK1",
+    "uniprot": "P19419",
+    "n_variants": 3,
+    "n_pathogenic": 0,
+    "n_benign": 3
+  },
+  {
+    "gene": "ELL",
+    "uniprot": "P55199",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "EME1",
+    "uniprot": "Q96AY2",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "EME2",
+    "uniprot": "A4GXA9",
+    "n_variants": 3,
+    "n_pathogenic": 0,
+    "n_benign": 3
+  },
+  {
+    "gene": "EMG1",
+    "uniprot": "Q92979",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "ENDOU",
+    "uniprot": "P21128",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "EPHA4",
+    "uniprot": "P54764",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "EPHB2",
+    "uniprot": "",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "EPOR",
+    "uniprot": "P19235",
+    "n_variants": 4,
+    "n_pathogenic": 0,
+    "n_benign": 4
+  },
+  {
+    "gene": "EPS8",
+    "uniprot": "Q12929",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "ERCC4",
+    "uniprot": "Q92889",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "ERF",
+    "uniprot": "P50548",
+    "n_variants": 3,
+    "n_pathogenic": 2,
+    "n_benign": 1
+  },
+  {
+    "gene": "ESCO2",
+    "uniprot": "Q56NI9",
+    "n_variants": 3,
+    "n_pathogenic": 0,
+    "n_benign": 3
+  },
+  {
+    "gene": "ESRRA",
+    "uniprot": "P11474",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "ETHE1",
+    "uniprot": "O95571",
+    "n_variants": 8,
+    "n_pathogenic": 7,
+    "n_benign": 1
+  },
+  {
+    "gene": "ETV6",
+    "uniprot": "P41212",
+    "n_variants": 3,
+    "n_pathogenic": 2,
+    "n_benign": 1
+  },
+  {
+    "gene": "ETV7",
+    "uniprot": "Q9Y603",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "EXO1",
+    "uniprot": "Q9UQ84",
+    "n_variants": 3,
+    "n_pathogenic": 0,
+    "n_benign": 3
+  },
+  {
+    "gene": "EZH2",
+    "uniprot": "Q15910",
+    "n_variants": 11,
+    "n_pathogenic": 4,
+    "n_benign": 7
+  },
+  {
+    "gene": "F10",
+    "uniprot": "P00742",
+    "n_variants": 6,
+    "n_pathogenic": 3,
+    "n_benign": 3
+  },
+  {
+    "gene": "F11",
+    "uniprot": "P03951",
+    "n_variants": 6,
+    "n_pathogenic": 5,
+    "n_benign": 1
+  },
+  {
+    "gene": "F12",
+    "uniprot": "P00748",
+    "n_variants": 4,
+    "n_pathogenic": 2,
+    "n_benign": 2
+  },
+  {
+    "gene": "F2",
+    "uniprot": "P00734",
+    "n_variants": 4,
+    "n_pathogenic": 4,
+    "n_benign": 0
+  },
+  {
+    "gene": "F3",
+    "uniprot": "P13726",
+    "n_variants": 4,
+    "n_pathogenic": 0,
+    "n_benign": 4
+  },
+  {
+    "gene": "F7",
+    "uniprot": "P08709",
+    "n_variants": 7,
+    "n_pathogenic": 7,
+    "n_benign": 0
+  },
+  {
+    "gene": "F9",
+    "uniprot": "P00740",
+    "n_variants": 84,
+    "n_pathogenic": 75,
+    "n_benign": 9
+  },
+  {
+    "gene": "FAM111A",
+    "uniprot": "Q96PZ2",
+    "n_variants": 20,
+    "n_pathogenic": 2,
+    "n_benign": 18
+  },
+  {
+    "gene": "FAM20A",
+    "uniprot": "Q96MK3",
+    "n_variants": 4,
+    "n_pathogenic": 0,
+    "n_benign": 4
+  },
+  {
+    "gene": "FAM20C",
+    "uniprot": "Q8IXL6",
+    "n_variants": 6,
+    "n_pathogenic": 1,
+    "n_benign": 5
+  },
+  {
+    "gene": "FAM91A1",
+    "uniprot": "",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "FANCB",
+    "uniprot": "Q8NB91",
+    "n_variants": 4,
+    "n_pathogenic": 0,
+    "n_benign": 4
+  },
+  {
+    "gene": "FANCC",
+    "uniprot": "Q00597",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "FANCE",
+    "uniprot": "Q9HB96",
+    "n_variants": 4,
+    "n_pathogenic": 0,
+    "n_benign": 4
+  },
+  {
+    "gene": "FANCF",
+    "uniprot": "Q9NPI8",
+    "n_variants": 2,
+    "n_pathogenic": 1,
+    "n_benign": 1
+  },
+  {
+    "gene": "FANCG",
+    "uniprot": "O15287",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "FANCL",
+    "uniprot": "Q9NW38",
+    "n_variants": 4,
+    "n_pathogenic": 3,
+    "n_benign": 1
+  },
+  {
+    "gene": "FAP",
+    "uniprot": "Q12884",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "FAR1",
+    "uniprot": "Q8WVX9",
+    "n_variants": 1,
+    "n_pathogenic": 1,
+    "n_benign": 0
+  },
+  {
+    "gene": "FAS",
+    "uniprot": "P25445",
+    "n_variants": 11,
+    "n_pathogenic": 11,
+    "n_benign": 0
+  },
+  {
+    "gene": "FCER1A",
+    "uniprot": "P12319",
+    "n_variants": 5,
+    "n_pathogenic": 0,
+    "n_benign": 5
+  },
+  {
+    "gene": "FCHSD2",
+    "uniprot": "O94868",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "FER",
+    "uniprot": "P16591",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "FES",
+    "uniprot": "P07332",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "FGA",
+    "uniprot": "P02671",
+    "n_variants": 6,
+    "n_pathogenic": 5,
+    "n_benign": 1
+  },
+  {
+    "gene": "FGFR3",
+    "uniprot": "P22607",
+    "n_variants": 29,
+    "n_pathogenic": 29,
+    "n_benign": 0
+  },
+  {
+    "gene": "FGG",
+    "uniprot": "P02679",
+    "n_variants": 5,
+    "n_pathogenic": 5,
+    "n_benign": 0
+  },
+  {
+    "gene": "FHL1",
+    "uniprot": "Q13642",
+    "n_variants": 12,
+    "n_pathogenic": 11,
+    "n_benign": 1
+  },
+  {
+    "gene": "FHL2",
+    "uniprot": "Q14192",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "FHL3",
+    "uniprot": "Q13643",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "FIBP",
+    "uniprot": "O43427",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "FIG4",
+    "uniprot": "Q92562",
+    "n_variants": 3,
+    "n_pathogenic": 2,
+    "n_benign": 1
+  },
+  {
+    "gene": "FKBP14",
+    "uniprot": "Q9NWM8",
+    "n_variants": 1,
+    "n_pathogenic": 1,
+    "n_benign": 0
+  },
+  {
+    "gene": "FKBP4",
+    "uniprot": "Q02790",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "FLI1",
+    "uniprot": "Q01543",
+    "n_variants": 1,
+    "n_pathogenic": 1,
+    "n_benign": 0
+  },
+  {
+    "gene": "FLRT3",
+    "uniprot": "Q9NZU0",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "FLT3",
+    "uniprot": "P36888",
+    "n_variants": 7,
+    "n_pathogenic": 0,
+    "n_benign": 7
+  },
+  {
+    "gene": "FLVCR1",
+    "uniprot": "Q8TAF5",
+    "n_variants": 7,
+    "n_pathogenic": 4,
+    "n_benign": 3
+  },
+  {
+    "gene": "FLVCR2",
+    "uniprot": "Q9UPI3",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "FMR1",
+    "uniprot": "Q06787",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "FNBP1",
+    "uniprot": "Q96RU3",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "FOSB",
+    "uniprot": "P53539",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "FOXP4",
+    "uniprot": "Q8IVH2",
+    "n_variants": 2,
+    "n_pathogenic": 1,
+    "n_benign": 1
+  },
+  {
+    "gene": "FTCD",
+    "uniprot": "O95954",
+    "n_variants": 5,
+    "n_pathogenic": 0,
+    "n_benign": 5
+  },
+  {
+    "gene": "FTO",
+    "uniprot": "Q9C0B1",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "FUS",
+    "uniprot": "P35637",
+    "n_variants": 11,
+    "n_pathogenic": 11,
+    "n_benign": 0
+  },
+  {
+    "gene": "FXN",
+    "uniprot": "Q16595",
+    "n_variants": 6,
+    "n_pathogenic": 3,
+    "n_benign": 3
+  },
+  {
+    "gene": "FYN",
+    "uniprot": "P06241",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "GAA",
+    "uniprot": "P10253",
+    "n_variants": 84,
+    "n_pathogenic": 77,
+    "n_benign": 7
+  },
+  {
+    "gene": "GAB1",
+    "uniprot": "Q13480",
+    "n_variants": 1,
+    "n_pathogenic": 1,
+    "n_benign": 0
+  },
+  {
+    "gene": "GAB2",
+    "uniprot": "Q9UQC2",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "GAL",
+    "uniprot": "P22466",
+    "n_variants": 3,
+    "n_pathogenic": 0,
+    "n_benign": 3
+  },
+  {
+    "gene": "GALE",
+    "uniprot": "Q14376",
+    "n_variants": 2,
+    "n_pathogenic": 2,
+    "n_benign": 0
+  },
+  {
+    "gene": "GC",
+    "uniprot": "P02774",
+    "n_variants": 4,
+    "n_pathogenic": 0,
+    "n_benign": 4
+  },
+  {
+    "gene": "GCFC2",
+    "uniprot": "P16383",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "GCG",
+    "uniprot": "P01275",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "GCGR",
+    "uniprot": "P47871",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "GCK",
+    "uniprot": "P35557",
+    "n_variants": 163,
+    "n_pathogenic": 158,
+    "n_benign": 5
+  },
+  {
+    "gene": "GEM",
+    "uniprot": "P55040",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "GGA3",
+    "uniprot": "Q9NZ52",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "GH1",
+    "uniprot": "P01241",
+    "n_variants": 1,
+    "n_pathogenic": 1,
+    "n_benign": 0
+  },
+  {
+    "gene": "GHSR",
+    "uniprot": "Q92847",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "GIT2",
+    "uniprot": "Q14161",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "GLA",
+    "uniprot": "P06280",
+    "n_variants": 224,
+    "n_pathogenic": 224,
+    "n_benign": 0
+  },
+  {
+    "gene": "GLCE",
+    "uniprot": "O94923",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "GLDN",
+    "uniprot": "Q6ZMI3",
+    "n_variants": 3,
+    "n_pathogenic": 0,
+    "n_benign": 3
+  },
+  {
+    "gene": "GLE1",
+    "uniprot": "Q53GS7",
+    "n_variants": 3,
+    "n_pathogenic": 2,
+    "n_benign": 1
+  },
+  {
+    "gene": "GLP1R",
+    "uniprot": "P43220",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "GLRA1",
+    "uniprot": "P23415",
+    "n_variants": 11,
+    "n_pathogenic": 9,
+    "n_benign": 2
+  },
+  {
+    "gene": "GLS",
+    "uniprot": "O94925",
+    "n_variants": 2,
+    "n_pathogenic": 1,
+    "n_benign": 1
+  },
+  {
+    "gene": "GLUD1",
+    "uniprot": "P00367",
+    "n_variants": 7,
+    "n_pathogenic": 7,
+    "n_benign": 0
+  },
+  {
+    "gene": "GLUL",
+    "uniprot": "P15104",
+    "n_variants": 1,
+    "n_pathogenic": 1,
+    "n_benign": 0
+  },
+  {
+    "gene": "GNAS",
+    "uniprot": "P84996",
+    "n_variants": 30,
+    "n_pathogenic": 27,
+    "n_benign": 3
+  },
+  {
+    "gene": "GNE",
+    "uniprot": "Q9Y223",
+    "n_variants": 10,
+    "n_pathogenic": 10,
+    "n_benign": 0
+  },
+  {
+    "gene": "GP2",
+    "uniprot": "P55259",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "GP5",
+    "uniprot": "P40197",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "GP6",
+    "uniprot": "Q9HCN6",
+    "n_variants": 6,
+    "n_pathogenic": 0,
+    "n_benign": 6
+  },
+  {
+    "gene": "GP9",
+    "uniprot": "P14770",
+    "n_variants": 7,
+    "n_pathogenic": 4,
+    "n_benign": 3
+  },
+  {
+    "gene": "GPATCH1",
+    "uniprot": "Q9BRR8",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "GPI",
+    "uniprot": "P06744",
+    "n_variants": 9,
+    "n_pathogenic": 8,
+    "n_benign": 1
+  },
+  {
+    "gene": "GPR15",
+    "uniprot": "P49685",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "GPT",
+    "uniprot": "P24298",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "GRB10",
+    "uniprot": "Q13322",
+    "n_variants": 3,
+    "n_pathogenic": 0,
+    "n_benign": 3
+  },
+  {
+    "gene": "GTF2IRD2",
+    "uniprot": "",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "HACE1",
+    "uniprot": "Q8IYU2",
+    "n_variants": 2,
+    "n_pathogenic": 1,
+    "n_benign": 1
+  },
+  {
+    "gene": "HAP1",
+    "uniprot": "P54257",
+    "n_variants": 5,
+    "n_pathogenic": 0,
+    "n_benign": 5
+  },
+  {
+    "gene": "HBB",
+    "uniprot": "P68871",
+    "n_variants": 37,
+    "n_pathogenic": 37,
+    "n_benign": 0
+  },
+  {
+    "gene": "HBS1L",
+    "uniprot": "Q9Y450",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "HCN1",
+    "uniprot": "O60741",
+    "n_variants": 12,
+    "n_pathogenic": 11,
+    "n_benign": 1
+  },
+  {
+    "gene": "HDAC8",
+    "uniprot": "Q9BY41",
+    "n_variants": 10,
+    "n_pathogenic": 5,
+    "n_benign": 5
+  },
+  {
+    "gene": "HDC",
+    "uniprot": "P19113",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "HECTD3",
+    "uniprot": "Q5T447",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "HEXA",
+    "uniprot": "P06865",
+    "n_variants": 18,
+    "n_pathogenic": 17,
+    "n_benign": 1
+  },
+  {
+    "gene": "HHAT",
+    "uniprot": "Q5VTY9",
+    "n_variants": 4,
+    "n_pathogenic": 0,
+    "n_benign": 4
+  },
+  {
+    "gene": "HINT1",
+    "uniprot": "P49773",
+    "n_variants": 2,
+    "n_pathogenic": 2,
+    "n_benign": 0
+  },
+  {
+    "gene": "HK1",
+    "uniprot": "P19367",
+    "n_variants": 4,
+    "n_pathogenic": 0,
+    "n_benign": 4
+  },
+  {
+    "gene": "HLA-B",
+    "uniprot": "P01889",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "HLA-DQA1",
+    "uniprot": "P01909",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "HLA-DRB1",
+    "uniprot": "P01911",
+    "n_variants": 3,
+    "n_pathogenic": 0,
+    "n_benign": 3
+  },
+  {
+    "gene": "HP",
+    "uniprot": "P00738",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "HPD",
+    "uniprot": "P32754",
+    "n_variants": 3,
+    "n_pathogenic": 0,
+    "n_benign": 3
+  },
+  {
+    "gene": "HPR",
+    "uniprot": "P00739",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "HPS1",
+    "uniprot": "Q92902",
+    "n_variants": 3,
+    "n_pathogenic": 1,
+    "n_benign": 2
+  },
+  {
+    "gene": "HPS4",
+    "uniprot": "Q9NQG7",
+    "n_variants": 8,
+    "n_pathogenic": 0,
+    "n_benign": 8
+  },
+  {
+    "gene": "HRAS",
+    "uniprot": "P01112",
+    "n_variants": 16,
+    "n_pathogenic": 14,
+    "n_benign": 2
+  },
+  {
+    "gene": "HRC",
+    "uniprot": "P23327",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "HRG",
+    "uniprot": "P04196",
+    "n_variants": 9,
+    "n_pathogenic": 0,
+    "n_benign": 9
+  },
+  {
+    "gene": "HSPB3",
+    "uniprot": "Q12988",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "HTRA1",
+    "uniprot": "Q92743",
+    "n_variants": 5,
+    "n_pathogenic": 4,
+    "n_benign": 1
+  },
+  {
+    "gene": "HTRA2",
+    "uniprot": "O43464",
+    "n_variants": 2,
+    "n_pathogenic": 1,
+    "n_benign": 1
+  },
+  {
+    "gene": "HTRA3",
+    "uniprot": "P83110",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "ICOS",
+    "uniprot": "Q9Y6W8",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "IDS",
+    "uniprot": "P22304",
+    "n_variants": 101,
+    "n_pathogenic": 94,
+    "n_benign": 7
+  },
+  {
+    "gene": "IFT52",
+    "uniprot": "Q9Y366",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "IFT88",
+    "uniprot": "Q13099",
+    "n_variants": 10,
+    "n_pathogenic": 0,
+    "n_benign": 10
+  },
+  {
+    "gene": "IKZF2",
+    "uniprot": "Q9UKS7",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "IL23R",
+    "uniprot": "Q5VWK5",
+    "n_variants": 5,
+    "n_pathogenic": 0,
+    "n_benign": 5
+  },
+  {
+    "gene": "IL2RB",
+    "uniprot": "P14784",
+    "n_variants": 5,
+    "n_pathogenic": 0,
+    "n_benign": 5
+  },
+  {
+    "gene": "IL6R",
+    "uniprot": "P08887",
+    "n_variants": 1,
+    "n_pathogenic": 1,
+    "n_benign": 0
+  },
+  {
+    "gene": "IL7R",
+    "uniprot": "P16871",
+    "n_variants": 13,
+    "n_pathogenic": 4,
+    "n_benign": 9
+  },
+  {
+    "gene": "ILK",
+    "uniprot": "Q13418",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "INCENP",
+    "uniprot": "Q9NQS7",
+    "n_variants": 8,
+    "n_pathogenic": 0,
+    "n_benign": 8
+  },
+  {
+    "gene": "INSC",
+    "uniprot": "Q1MX18",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "INTU",
+    "uniprot": "Q9ULD6",
+    "n_variants": 8,
+    "n_pathogenic": 0,
+    "n_benign": 8
+  },
+  {
+    "gene": "IRF3",
+    "uniprot": "Q14653",
+    "n_variants": 3,
+    "n_pathogenic": 0,
+    "n_benign": 3
+  },
+  {
+    "gene": "ISCU",
+    "uniprot": "Q9H1K1",
+    "n_variants": 3,
+    "n_pathogenic": 0,
+    "n_benign": 3
+  },
+  {
+    "gene": "ISG15",
+    "uniprot": "P05161",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "ITM2B",
+    "uniprot": "Q9Y287",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "KAT2B",
+    "uniprot": "Q92831",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "KAT8",
+    "uniprot": "Q9H7Z6",
+    "n_variants": 3,
+    "n_pathogenic": 3,
+    "n_benign": 0
+  },
+  {
+    "gene": "KCNE1",
+    "uniprot": "P15382",
+    "n_variants": 3,
+    "n_pathogenic": 2,
+    "n_benign": 1
+  },
+  {
+    "gene": "KCNQ1",
+    "uniprot": "P51787",
+    "n_variants": 65,
+    "n_pathogenic": 61,
+    "n_benign": 4
+  },
+  {
+    "gene": "KCTD1",
+    "uniprot": "Q719H9",
+    "n_variants": 2,
+    "n_pathogenic": 1,
+    "n_benign": 1
+  },
+  {
+    "gene": "KCTD17",
+    "uniprot": "Q8N5Z5",
+    "n_variants": 2,
+    "n_pathogenic": 1,
+    "n_benign": 1
+  },
+  {
+    "gene": "KCTD7",
+    "uniprot": "Q96MP8",
+    "n_variants": 1,
+    "n_pathogenic": 1,
+    "n_benign": 0
+  },
+  {
+    "gene": "KERA",
+    "uniprot": "O60938",
+    "n_variants": 2,
+    "n_pathogenic": 2,
+    "n_benign": 0
+  },
+  {
+    "gene": "KIF19",
+    "uniprot": "Q2TAC6",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "KIF20A",
+    "uniprot": "O95235",
+    "n_variants": 3,
+    "n_pathogenic": 0,
+    "n_benign": 3
+  },
+  {
+    "gene": "KIF22",
+    "uniprot": "Q14807",
+    "n_variants": 19,
+    "n_pathogenic": 2,
+    "n_benign": 17
+  },
+  {
+    "gene": "KIF23",
+    "uniprot": "Q02241",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "KIF2A",
+    "uniprot": "O00139",
+    "n_variants": 12,
+    "n_pathogenic": 1,
+    "n_benign": 11
+  },
+  {
+    "gene": "KIF5B",
+    "uniprot": "P33176",
+    "n_variants": 1,
+    "n_pathogenic": 1,
+    "n_benign": 0
+  },
+  {
+    "gene": "KISS1R",
+    "uniprot": "Q969F8",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "KIT",
+    "uniprot": "P10721",
+    "n_variants": 7,
+    "n_pathogenic": 7,
+    "n_benign": 0
+  },
+  {
+    "gene": "KLK6",
+    "uniprot": "Q92876",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "KMT5B",
+    "uniprot": "Q4FZB7",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "KRAS",
+    "uniprot": "P01116",
+    "n_variants": 22,
+    "n_pathogenic": 22,
+    "n_benign": 0
+  },
+  {
+    "gene": "KRIT1",
+    "uniprot": "O00522",
+    "n_variants": 2,
+    "n_pathogenic": 2,
+    "n_benign": 0
+  },
+  {
+    "gene": "KY",
+    "uniprot": "Q8NBH2",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "LACTB",
+    "uniprot": "P83111",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "LAG3",
+    "uniprot": "P18627",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "LAGE3",
+    "uniprot": "Q14657",
+    "n_variants": 5,
+    "n_pathogenic": 0,
+    "n_benign": 5
+  },
+  {
+    "gene": "LANCL1",
+    "uniprot": "O43813",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "LARGE1",
+    "uniprot": "O95461",
+    "n_variants": 1,
+    "n_pathogenic": 1,
+    "n_benign": 0
+  },
+  {
+    "gene": "LAS1L",
+    "uniprot": "Q9Y4W2",
+    "n_variants": 3,
+    "n_pathogenic": 0,
+    "n_benign": 3
+  },
+  {
+    "gene": "LAT",
+    "uniprot": "O43561",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "LBP",
+    "uniprot": "P18428",
+    "n_variants": 4,
+    "n_pathogenic": 0,
+    "n_benign": 4
+  },
+  {
+    "gene": "LCP1",
+    "uniprot": "P13796",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "LDLR",
+    "uniprot": "P01130",
+    "n_variants": 84,
+    "n_pathogenic": 79,
+    "n_benign": 5
+  },
+  {
+    "gene": "LHX4",
+    "uniprot": "Q969G2",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "LMX1A",
+    "uniprot": "Q8TE12",
+    "n_variants": 1,
+    "n_pathogenic": 1,
+    "n_benign": 0
+  },
+  {
+    "gene": "LOX",
+    "uniprot": "P28300",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "LPIN1",
+    "uniprot": "Q14693",
+    "n_variants": 3,
+    "n_pathogenic": 0,
+    "n_benign": 3
+  },
+  {
+    "gene": "LPP",
+    "uniprot": "Q93052",
+    "n_variants": 4,
+    "n_pathogenic": 0,
+    "n_benign": 4
+  },
+  {
+    "gene": "LRRC32",
+    "uniprot": "Q14392",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "LRRC8C",
+    "uniprot": "Q8TDW0",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "LTA4H",
+    "uniprot": "P09960",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "LTF",
+    "uniprot": "P02788",
+    "n_variants": 3,
+    "n_pathogenic": 0,
+    "n_benign": 3
+  },
+  {
+    "gene": "LTK",
+    "uniprot": "P29376",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "LTV1",
+    "uniprot": "Q96GA3",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "LY86",
+    "uniprot": "O95711",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "LYZ",
+    "uniprot": "P61626",
+    "n_variants": 4,
+    "n_pathogenic": 2,
+    "n_benign": 2
+  },
+  {
+    "gene": "MACROD2",
+    "uniprot": "A1Z1Q3",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "MAD2L1",
+    "uniprot": "Q13257",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "MAF",
+    "uniprot": "O75444",
+    "n_variants": 11,
+    "n_pathogenic": 6,
+    "n_benign": 5
+  },
+  {
+    "gene": "MAFA",
+    "uniprot": "Q8NHW3",
+    "n_variants": 3,
+    "n_pathogenic": 1,
+    "n_benign": 2
+  },
+  {
+    "gene": "MAFB",
+    "uniprot": "Q9Y5Q3",
+    "n_variants": 10,
+    "n_pathogenic": 6,
+    "n_benign": 4
+  },
+  {
+    "gene": "MAGEB1",
+    "uniprot": "",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "MALT1",
+    "uniprot": "Q9UDY8",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "MAP3K7",
+    "uniprot": "O43318",
+    "n_variants": 9,
+    "n_pathogenic": 8,
+    "n_benign": 1
+  },
+  {
+    "gene": "MAP7",
+    "uniprot": "Q14244",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "MARCKS",
+    "uniprot": "P29966",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "MARK1",
+    "uniprot": "Q9P0L2",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "MASP1",
+    "uniprot": "P48740",
+    "n_variants": 4,
+    "n_pathogenic": 0,
+    "n_benign": 4
+  },
+  {
+    "gene": "MAU2",
+    "uniprot": "Q9Y6X3",
+    "n_variants": 1,
+    "n_pathogenic": 1,
+    "n_benign": 0
+  },
+  {
+    "gene": "MAVS",
+    "uniprot": "Q7Z434",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "MAX",
+    "uniprot": "P61244",
+    "n_variants": 3,
+    "n_pathogenic": 3,
+    "n_benign": 0
+  },
+  {
+    "gene": "MBD4",
+    "uniprot": "O95243",
+    "n_variants": 3,
+    "n_pathogenic": 0,
+    "n_benign": 3
+  },
+  {
+    "gene": "MBP",
+    "uniprot": "P02686",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "MCL1",
+    "uniprot": "Q07820",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "MCM10",
+    "uniprot": "Q7L590",
+    "n_variants": 7,
+    "n_pathogenic": 0,
+    "n_benign": 7
+  },
+  {
+    "gene": "MCM2",
+    "uniprot": "P33993",
+    "n_variants": 4,
+    "n_pathogenic": 0,
+    "n_benign": 4
+  },
+  {
+    "gene": "MCM4",
+    "uniprot": "P33991",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "MCM5",
+    "uniprot": "P33992",
+    "n_variants": 3,
+    "n_pathogenic": 0,
+    "n_benign": 3
+  },
+  {
+    "gene": "MCM7",
+    "uniprot": "P33993",
+    "n_variants": 3,
+    "n_pathogenic": 2,
+    "n_benign": 1
+  },
+  {
+    "gene": "MCM8",
+    "uniprot": "Q9UJA3",
+    "n_variants": 7,
+    "n_pathogenic": 0,
+    "n_benign": 7
+  },
+  {
+    "gene": "MCTP2",
+    "uniprot": "Q6DN12",
+    "n_variants": 6,
+    "n_pathogenic": 0,
+    "n_benign": 6
+  },
+  {
+    "gene": "MCU",
+    "uniprot": "Q8NE86",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "MDM4",
+    "uniprot": "O15151",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "MEAK7",
+    "uniprot": "Q6P9B6",
+    "n_variants": 5,
+    "n_pathogenic": 0,
+    "n_benign": 5
+  },
+  {
+    "gene": "MED17",
+    "uniprot": "",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "MED29",
+    "uniprot": "Q9NX70",
+    "n_variants": 1,
+    "n_pathogenic": 1,
+    "n_benign": 0
+  },
+  {
+    "gene": "MED30",
+    "uniprot": "Q96HR3",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "MED4",
+    "uniprot": "Q5T911",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "MEF2C",
+    "uniprot": "Q06413",
+    "n_variants": 18,
+    "n_pathogenic": 5,
+    "n_benign": 13
+  },
+  {
+    "gene": "MEIS2",
+    "uniprot": "O14770",
+    "n_variants": 7,
+    "n_pathogenic": 2,
+    "n_benign": 5
+  },
+  {
+    "gene": "MESD",
+    "uniprot": "Q14696",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "MFN2",
+    "uniprot": "O95140",
+    "n_variants": 39,
+    "n_pathogenic": 39,
+    "n_benign": 0
+  },
+  {
+    "gene": "MGLL",
+    "uniprot": "Q99685",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "MGP",
+    "uniprot": "P08493",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "MICA",
+    "uniprot": "Q29983",
+    "n_variants": 3,
+    "n_pathogenic": 0,
+    "n_benign": 3
+  },
+  {
+    "gene": "MID1",
+    "uniprot": "P29372",
+    "n_variants": 9,
+    "n_pathogenic": 3,
+    "n_benign": 6
+  },
+  {
+    "gene": "MID2",
+    "uniprot": "Q9UJV3",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "MIEF1",
+    "uniprot": "L0R8F8",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "MIP",
+    "uniprot": "P30301",
+    "n_variants": 3,
+    "n_pathogenic": 2,
+    "n_benign": 1
+  },
+  {
+    "gene": "MLH1",
+    "uniprot": "P40692",
+    "n_variants": 89,
+    "n_pathogenic": 69,
+    "n_benign": 20
+  },
+  {
+    "gene": "MMACHC",
+    "uniprot": "Q9Y4U1",
+    "n_variants": 10,
+    "n_pathogenic": 9,
+    "n_benign": 1
+  },
+  {
+    "gene": "MMP10",
+    "uniprot": "P09238",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "MMP9",
+    "uniprot": "P14780",
+    "n_variants": 4,
+    "n_pathogenic": 0,
+    "n_benign": 4
+  },
+  {
+    "gene": "MOCS3",
+    "uniprot": "O95396",
+    "n_variants": 3,
+    "n_pathogenic": 0,
+    "n_benign": 3
+  },
+  {
+    "gene": "MPL",
+    "uniprot": "P40238",
+    "n_variants": 4,
+    "n_pathogenic": 4,
+    "n_benign": 0
+  },
+  {
+    "gene": "MPP1",
+    "uniprot": "Q00013",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "MRE11",
+    "uniprot": "P49959",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "MRPL3",
+    "uniprot": "",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "MRPL40",
+    "uniprot": "Q9NQ50",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "MRPL44",
+    "uniprot": "Q9H9J2",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "MRPL49",
+    "uniprot": "E9PNF1",
+    "n_variants": 1,
+    "n_pathogenic": 1,
+    "n_benign": 0
+  },
+  {
+    "gene": "MRPS16",
+    "uniprot": "",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "MRPS2",
+    "uniprot": "Q9Y399",
+    "n_variants": 8,
+    "n_pathogenic": 1,
+    "n_benign": 7
+  },
+  {
+    "gene": "MRPS22",
+    "uniprot": "P82650",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "MRPS23",
+    "uniprot": "Q9Y3D9",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "MRPS27",
+    "uniprot": "Q92552",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "MRPS28",
+    "uniprot": "Q9Y2Q9",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "MRPS34",
+    "uniprot": "P82930",
+    "n_variants": 4,
+    "n_pathogenic": 0,
+    "n_benign": 4
+  },
+  {
+    "gene": "MRPS35",
+    "uniprot": "P82673",
+    "n_variants": 3,
+    "n_pathogenic": 0,
+    "n_benign": 3
+  },
+  {
+    "gene": "MRPS7",
+    "uniprot": "",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "MSL2",
+    "uniprot": "Q9HCI7",
+    "n_variants": 3,
+    "n_pathogenic": 2,
+    "n_benign": 1
+  },
+  {
+    "gene": "MST1",
+    "uniprot": "P26927",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "MSX2",
+    "uniprot": "P35548",
+    "n_variants": 4,
+    "n_pathogenic": 2,
+    "n_benign": 2
+  },
+  {
+    "gene": "MTA1",
+    "uniprot": "Q13330",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "MTAP",
+    "uniprot": "Q13126",
+    "n_variants": 3,
+    "n_pathogenic": 0,
+    "n_benign": 3
+  },
+  {
+    "gene": "MTF1",
+    "uniprot": "Q14872",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "MTRF1",
+    "uniprot": "O75570",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "MTRR",
+    "uniprot": "Q9UBK8",
+    "n_variants": 5,
+    "n_pathogenic": 1,
+    "n_benign": 4
+  },
+  {
+    "gene": "MUS81",
+    "uniprot": "Q96NY9",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "MUSK",
+    "uniprot": "O15146",
+    "n_variants": 8,
+    "n_pathogenic": 2,
+    "n_benign": 6
+  },
+  {
+    "gene": "MX1",
+    "uniprot": "P20591",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "MYB",
+    "uniprot": "P10242",
+    "n_variants": 3,
+    "n_pathogenic": 0,
+    "n_benign": 3
+  },
+  {
+    "gene": "MYC",
+    "uniprot": "P01106",
+    "n_variants": 1,
+    "n_pathogenic": 1,
+    "n_benign": 0
+  },
+  {
+    "gene": "MYD88",
+    "uniprot": "Q99836",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "MYLIP",
+    "uniprot": "Q8WY64",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "NAA10",
+    "uniprot": "P41227",
+    "n_variants": 8,
+    "n_pathogenic": 7,
+    "n_benign": 1
+  },
+  {
+    "gene": "NAB2",
+    "uniprot": "Q15742",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "NAF1",
+    "uniprot": "Q96HR8",
+    "n_variants": 4,
+    "n_pathogenic": 0,
+    "n_benign": 4
+  },
+  {
+    "gene": "NAGPA",
+    "uniprot": "Q9UK23",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "NAGS",
+    "uniprot": "Q8N159",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "NANS",
+    "uniprot": "Q9NR45",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "NAPB",
+    "uniprot": "Q9H115",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "NAT1",
+    "uniprot": "P18440",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "NBR1",
+    "uniprot": "Q14596",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "NCK1",
+    "uniprot": "P16333",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "NCL",
+    "uniprot": "P19338",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "NCOA4",
+    "uniprot": "Q13772",
+    "n_variants": 4,
+    "n_pathogenic": 0,
+    "n_benign": 4
+  },
+  {
+    "gene": "NDN",
+    "uniprot": "Q99608",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "NDP",
+    "uniprot": "Q00604",
+    "n_variants": 17,
+    "n_pathogenic": 16,
+    "n_benign": 1
+  },
+  {
+    "gene": "NDRG2",
+    "uniprot": "Q9UN36",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "NDUFA10",
+    "uniprot": "O95299",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "NDUFA13",
+    "uniprot": "Q9P0J0",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "NDUFA2",
+    "uniprot": "O43678",
+    "n_variants": 1,
+    "n_pathogenic": 1,
+    "n_benign": 0
+  },
+  {
+    "gene": "NDUFA5",
+    "uniprot": "Q16718",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "NDUFA6",
+    "uniprot": "P56556",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "NDUFA9",
+    "uniprot": "Q16795",
+    "n_variants": 3,
+    "n_pathogenic": 0,
+    "n_benign": 3
+  },
+  {
+    "gene": "NDUFAB1",
+    "uniprot": "O14561",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "NDUFAF7",
+    "uniprot": "Q7L592",
+    "n_variants": 4,
+    "n_pathogenic": 0,
+    "n_benign": 4
+  },
+  {
+    "gene": "NDUFB11",
+    "uniprot": "Q9NX14",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "NDUFB8",
+    "uniprot": "O95169",
+    "n_variants": 3,
+    "n_pathogenic": 0,
+    "n_benign": 3
+  },
+  {
+    "gene": "NDUFB9",
+    "uniprot": "Q9Y6M9",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "NDUFC2",
+    "uniprot": "O95298",
+    "n_variants": 1,
+    "n_pathogenic": 1,
+    "n_benign": 0
+  },
+  {
+    "gene": "NDUFS1",
+    "uniprot": "P28331",
+    "n_variants": 1,
+    "n_pathogenic": 1,
+    "n_benign": 0
+  },
+  {
+    "gene": "NDUFS2",
+    "uniprot": "O75306",
+    "n_variants": 2,
+    "n_pathogenic": 1,
+    "n_benign": 1
+  },
+  {
+    "gene": "NDUFS7",
+    "uniprot": "O75251",
+    "n_variants": 2,
+    "n_pathogenic": 1,
+    "n_benign": 1
+  },
+  {
+    "gene": "NDUFS8",
+    "uniprot": "O00217",
+    "n_variants": 1,
+    "n_pathogenic": 1,
+    "n_benign": 0
+  },
+  {
+    "gene": "NDUFV1",
+    "uniprot": "P49821",
+    "n_variants": 4,
+    "n_pathogenic": 4,
+    "n_benign": 0
+  },
+  {
+    "gene": "NDUFV2",
+    "uniprot": "P19404",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "NEDD4",
+    "uniprot": "P46934",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "NEIL1",
+    "uniprot": "Q96FI4",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "NEK2",
+    "uniprot": "P51955",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "NEK9",
+    "uniprot": "Q8TD19",
+    "n_variants": 5,
+    "n_pathogenic": 0,
+    "n_benign": 5
+  },
+  {
+    "gene": "NELL1",
+    "uniprot": "Q92832",
+    "n_variants": 8,
+    "n_pathogenic": 0,
+    "n_benign": 8
+  },
+  {
+    "gene": "NET1",
+    "uniprot": "Q7Z628",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "NF2",
+    "uniprot": "P35240",
+    "n_variants": 1,
+    "n_pathogenic": 1,
+    "n_benign": 0
+  },
+  {
+    "gene": "NFATC1",
+    "uniprot": "O95644",
+    "n_variants": 7,
+    "n_pathogenic": 0,
+    "n_benign": 7
+  },
+  {
+    "gene": "NFATC2",
+    "uniprot": "Q13469",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "NFU1",
+    "uniprot": "Q9UMS0",
+    "n_variants": 4,
+    "n_pathogenic": 1,
+    "n_benign": 3
+  },
+  {
+    "gene": "NGF",
+    "uniprot": "P01138",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "NHP2",
+    "uniprot": "Q9NX24",
+    "n_variants": 1,
+    "n_pathogenic": 1,
+    "n_benign": 0
+  },
+  {
+    "gene": "NMS",
+    "uniprot": "Q5H8A3",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "NODAL",
+    "uniprot": "Q96S42",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "NOP14",
+    "uniprot": "P78316",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "NOP2",
+    "uniprot": "P46087",
+    "n_variants": 4,
+    "n_pathogenic": 0,
+    "n_benign": 4
+  },
+  {
+    "gene": "NOP56",
+    "uniprot": "O00567",
+    "n_variants": 3,
+    "n_pathogenic": 0,
+    "n_benign": 3
+  },
+  {
+    "gene": "NOSTRIN",
+    "uniprot": "Q8IVI9",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "NOTUM",
+    "uniprot": "Q6P988",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "NPFF",
+    "uniprot": "O15130",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "NPRL3",
+    "uniprot": "Q12980",
+    "n_variants": 5,
+    "n_pathogenic": 1,
+    "n_benign": 4
+  },
+  {
+    "gene": "NPY",
+    "uniprot": "P01303",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "NR1H3",
+    "uniprot": "Q13133",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "NR1H4",
+    "uniprot": "B6ZGS9",
+    "n_variants": 2,
+    "n_pathogenic": 1,
+    "n_benign": 1
+  },
+  {
+    "gene": "NR1I3",
+    "uniprot": "Q14994",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "NR2E3",
+    "uniprot": "Q9Y5X4",
+    "n_variants": 5,
+    "n_pathogenic": 3,
+    "n_benign": 2
+  },
+  {
+    "gene": "NR4A1",
+    "uniprot": "P22736",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "NRAS",
+    "uniprot": "P01111",
+    "n_variants": 8,
+    "n_pathogenic": 8,
+    "n_benign": 0
+  },
+  {
+    "gene": "NRP1",
+    "uniprot": "O14786",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "NSF",
+    "uniprot": "P46459",
+    "n_variants": 1,
+    "n_pathogenic": 1,
+    "n_benign": 0
+  },
+  {
+    "gene": "NSUN2",
+    "uniprot": "Q08J23",
+    "n_variants": 3,
+    "n_pathogenic": 0,
+    "n_benign": 3
+  },
+  {
+    "gene": "NTSR1",
+    "uniprot": "P30989",
+    "n_variants": 6,
+    "n_pathogenic": 0,
+    "n_benign": 6
+  },
+  {
+    "gene": "NUDT16",
+    "uniprot": "Q96DE0",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "NUF2",
+    "uniprot": "Q9BZD4",
+    "n_variants": 1,
+    "n_pathogenic": 1,
+    "n_benign": 0
+  },
+  {
+    "gene": "NUFIP1",
+    "uniprot": "Q9UHK0",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "NUP107",
+    "uniprot": "P57740",
+    "n_variants": 1,
+    "n_pathogenic": 1,
+    "n_benign": 0
+  },
+  {
+    "gene": "NUP37",
+    "uniprot": "Q8NFH4",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "NUP43",
+    "uniprot": "Q8NFH3",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "NUP62",
+    "uniprot": "P37198",
+    "n_variants": 3,
+    "n_pathogenic": 0,
+    "n_benign": 3
+  },
+  {
+    "gene": "NUP85",
+    "uniprot": "Q9BW27",
+    "n_variants": 4,
+    "n_pathogenic": 0,
+    "n_benign": 4
+  },
+  {
+    "gene": "NUP93",
+    "uniprot": "Q8N1F7",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "NUS1",
+    "uniprot": "Q96E22",
+    "n_variants": 2,
+    "n_pathogenic": 1,
+    "n_benign": 1
+  },
+  {
+    "gene": "OCRL",
+    "uniprot": "Q01968",
+    "n_variants": 9,
+    "n_pathogenic": 8,
+    "n_benign": 1
+  },
+  {
+    "gene": "ODAD1",
+    "uniprot": "Q96M63",
+    "n_variants": 9,
+    "n_pathogenic": 0,
+    "n_benign": 9
+  },
+  {
+    "gene": "ORC1",
+    "uniprot": "Q13415",
+    "n_variants": 8,
+    "n_pathogenic": 2,
+    "n_benign": 6
+  },
+  {
+    "gene": "ORM1",
+    "uniprot": "P02763",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "OTC",
+    "uniprot": "P00480",
+    "n_variants": 55,
+    "n_pathogenic": 53,
+    "n_benign": 2
+  },
+  {
+    "gene": "OTOP2",
+    "uniprot": "Q7RTS6",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "OTULIN",
+    "uniprot": "Q96BN8",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "OXA1L",
+    "uniprot": "Q15070",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "PADI4",
+    "uniprot": "Q9UM07",
+    "n_variants": 3,
+    "n_pathogenic": 0,
+    "n_benign": 3
+  },
+  {
+    "gene": "PAH",
+    "uniprot": "P00439",
+    "n_variants": 171,
+    "n_pathogenic": 171,
+    "n_benign": 0
+  },
+  {
+    "gene": "PALM",
+    "uniprot": "O75781",
+    "n_variants": 3,
+    "n_pathogenic": 0,
+    "n_benign": 3
+  },
+  {
+    "gene": "PALS1",
+    "uniprot": "Q8N3R9",
+    "n_variants": 2,
+    "n_pathogenic": 1,
+    "n_benign": 1
+  },
+  {
+    "gene": "PAM",
+    "uniprot": "P19021",
+    "n_variants": 3,
+    "n_pathogenic": 0,
+    "n_benign": 3
+  },
+  {
+    "gene": "PARN",
+    "uniprot": "O95453",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "PARP12",
+    "uniprot": "Q9H0J9",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "PARP15",
+    "uniprot": "Q460N3",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "PARP9",
+    "uniprot": "Q8IXQ6",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "PAX3",
+    "uniprot": "P23760",
+    "n_variants": 18,
+    "n_pathogenic": 18,
+    "n_benign": 0
+  },
+  {
+    "gene": "PAX5",
+    "uniprot": "Q02548",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "PAX6",
+    "uniprot": "P26367",
+    "n_variants": 26,
+    "n_pathogenic": 24,
+    "n_benign": 2
+  },
+  {
+    "gene": "PBX1",
+    "uniprot": "P40424",
+    "n_variants": 4,
+    "n_pathogenic": 3,
+    "n_benign": 1
+  },
+  {
+    "gene": "PCDHB8",
+    "uniprot": "Q9UN66",
+    "n_variants": 6,
+    "n_pathogenic": 0,
+    "n_benign": 6
+  },
+  {
+    "gene": "PCDHGA8",
+    "uniprot": "Q9Y5G5",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "PCSK9",
+    "uniprot": "Q8NBP7",
+    "n_variants": 1,
+    "n_pathogenic": 1,
+    "n_benign": 0
+  },
+  {
+    "gene": "PCYOX1",
+    "uniprot": "Q9UHG3",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "PDF",
+    "uniprot": "Q9HBH1",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "PDX1",
+    "uniprot": "P52945",
+    "n_variants": 2,
+    "n_pathogenic": 2,
+    "n_benign": 0
+  },
+  {
+    "gene": "PDZK1",
+    "uniprot": "Q5T2W1",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "PEPD",
+    "uniprot": "P12955",
+    "n_variants": 7,
+    "n_pathogenic": 3,
+    "n_benign": 4
+  },
+  {
+    "gene": "PET117",
+    "uniprot": "Q6UWS5",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "PEX14",
+    "uniprot": "O75381",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "PEX5",
+    "uniprot": "P50542",
+    "n_variants": 4,
+    "n_pathogenic": 1,
+    "n_benign": 3
+  },
+  {
+    "gene": "PEX6",
+    "uniprot": "Q13608",
+    "n_variants": 10,
+    "n_pathogenic": 8,
+    "n_benign": 2
+  },
+  {
+    "gene": "PGAM5",
+    "uniprot": "Q96HS1",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "PGM1",
+    "uniprot": "P36871",
+    "n_variants": 4,
+    "n_pathogenic": 2,
+    "n_benign": 2
+  },
+  {
+    "gene": "PHF6",
+    "uniprot": "Q8IWS0",
+    "n_variants": 6,
+    "n_pathogenic": 6,
+    "n_benign": 0
+  },
+  {
+    "gene": "PIAS2",
+    "uniprot": "O75928",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "PIAS3",
+    "uniprot": "Q9Y6X2",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "PIF1",
+    "uniprot": "Q9H611",
+    "n_variants": 5,
+    "n_pathogenic": 0,
+    "n_benign": 5
+  },
+  {
+    "gene": "PIGG",
+    "uniprot": "Q5H8A4",
+    "n_variants": 8,
+    "n_pathogenic": 0,
+    "n_benign": 8
+  },
+  {
+    "gene": "PIGH",
+    "uniprot": "Q14442",
+    "n_variants": 1,
+    "n_pathogenic": 1,
+    "n_benign": 0
+  },
+  {
+    "gene": "PILRA",
+    "uniprot": "Q9UKJ1",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "PINK1",
+    "uniprot": "Q9BXM7",
+    "n_variants": 4,
+    "n_pathogenic": 1,
+    "n_benign": 3
+  },
+  {
+    "gene": "PIP",
+    "uniprot": "P12273",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "PKD2",
+    "uniprot": "Q13563",
+    "n_variants": 3,
+    "n_pathogenic": 0,
+    "n_benign": 3
+  },
+  {
+    "gene": "PKLR",
+    "uniprot": "P30613",
+    "n_variants": 8,
+    "n_pathogenic": 8,
+    "n_benign": 0
+  },
+  {
+    "gene": "PLA2G6",
+    "uniprot": "O60733",
+    "n_variants": 10,
+    "n_pathogenic": 9,
+    "n_benign": 1
+  },
+  {
+    "gene": "PLD3",
+    "uniprot": "Q8IV08",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "PLG",
+    "uniprot": "P00747",
+    "n_variants": 8,
+    "n_pathogenic": 1,
+    "n_benign": 7
+  },
+  {
+    "gene": "PLK4",
+    "uniprot": "O00444",
+    "n_variants": 4,
+    "n_pathogenic": 0,
+    "n_benign": 4
+  },
+  {
+    "gene": "PLN",
+    "uniprot": "P26678",
+    "n_variants": 2,
+    "n_pathogenic": 2,
+    "n_benign": 0
+  },
+  {
+    "gene": "PMEL",
+    "uniprot": "P40967",
+    "n_variants": 7,
+    "n_pathogenic": 0,
+    "n_benign": 7
+  },
+  {
+    "gene": "PML",
+    "uniprot": "P29590",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "PMP2",
+    "uniprot": "P02689",
+    "n_variants": 4,
+    "n_pathogenic": 0,
+    "n_benign": 4
+  },
+  {
+    "gene": "PMS1",
+    "uniprot": "P54277",
+    "n_variants": 9,
+    "n_pathogenic": 0,
+    "n_benign": 9
+  },
+  {
+    "gene": "PMS2",
+    "uniprot": "P54278",
+    "n_variants": 15,
+    "n_pathogenic": 4,
+    "n_benign": 11
+  },
+  {
+    "gene": "PNO1",
+    "uniprot": "Q9NRX1",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "PNP",
+    "uniprot": "A0A8V8TL37",
+    "n_variants": 3,
+    "n_pathogenic": 2,
+    "n_benign": 1
+  },
+  {
+    "gene": "POF1B",
+    "uniprot": "Q8WVV4",
+    "n_variants": 5,
+    "n_pathogenic": 0,
+    "n_benign": 5
+  },
+  {
+    "gene": "POLD3",
+    "uniprot": "Q15054",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "POLG2",
+    "uniprot": "Q9UHN1",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "PON3",
+    "uniprot": "Q15166",
+    "n_variants": 4,
+    "n_pathogenic": 0,
+    "n_benign": 4
+  },
+  {
+    "gene": "POR",
+    "uniprot": "P16435",
+    "n_variants": 3,
+    "n_pathogenic": 3,
+    "n_benign": 0
+  },
+  {
+    "gene": "PPM1H",
+    "uniprot": "Q9ULR3",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "PPM1K",
+    "uniprot": "Q8N3J5",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "PPP2R1A",
+    "uniprot": "P30153",
+    "n_variants": 20,
+    "n_pathogenic": 4,
+    "n_benign": 16
+  },
+  {
+    "gene": "PRAME",
+    "uniprot": "P78395",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "PRDM9",
+    "uniprot": "Q9NQV7",
+    "n_variants": 2,
+    "n_pathogenic": 2,
+    "n_benign": 0
+  },
+  {
+    "gene": "PRF1",
+    "uniprot": "P14222",
+    "n_variants": 12,
+    "n_pathogenic": 12,
+    "n_benign": 0
+  },
+  {
+    "gene": "PRIMPOL",
+    "uniprot": "Q96LW4",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "PRKG1",
+    "uniprot": "Q13976",
+    "n_variants": 1,
+    "n_pathogenic": 1,
+    "n_benign": 0
+  },
+  {
+    "gene": "PRMT3",
+    "uniprot": "O60678",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "PROP1",
+    "uniprot": "O75360",
+    "n_variants": 6,
+    "n_pathogenic": 3,
+    "n_benign": 3
+  },
+  {
+    "gene": "PRSS3",
+    "uniprot": "P35030",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "PSMC5",
+    "uniprot": "P62195",
+    "n_variants": 1,
+    "n_pathogenic": 1,
+    "n_benign": 0
+  },
+  {
+    "gene": "PTEN",
+    "uniprot": "P60484",
+    "n_variants": 81,
+    "n_pathogenic": 80,
+    "n_benign": 1
+  },
+  {
+    "gene": "PTH1R",
+    "uniprot": "Q03431",
+    "n_variants": 7,
+    "n_pathogenic": 7,
+    "n_benign": 0
+  },
+  {
+    "gene": "PTPA",
+    "uniprot": "Q15257",
+    "n_variants": 3,
+    "n_pathogenic": 0,
+    "n_benign": 3
+  },
+  {
+    "gene": "PTPN2",
+    "uniprot": "P17706",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "PTS",
+    "uniprot": "Q03393",
+    "n_variants": 15,
+    "n_pathogenic": 15,
+    "n_benign": 0
+  },
+  {
+    "gene": "PTX3",
+    "uniprot": "P26022",
+    "n_variants": 3,
+    "n_pathogenic": 0,
+    "n_benign": 3
+  },
+  {
+    "gene": "PUF60",
+    "uniprot": "Q9UHX1",
+    "n_variants": 1,
+    "n_pathogenic": 1,
+    "n_benign": 0
+  },
+  {
+    "gene": "PURA",
+    "uniprot": "Q00577",
+    "n_variants": 26,
+    "n_pathogenic": 16,
+    "n_benign": 10
+  },
+  {
+    "gene": "PYCR1",
+    "uniprot": "P32322",
+    "n_variants": 5,
+    "n_pathogenic": 3,
+    "n_benign": 2
+  },
+  {
+    "gene": "PYY",
+    "uniprot": "P10082",
+    "n_variants": 3,
+    "n_pathogenic": 0,
+    "n_benign": 3
+  },
+  {
+    "gene": "QRFP",
+    "uniprot": "P83859",
+    "n_variants": 3,
+    "n_pathogenic": 0,
+    "n_benign": 3
+  },
+  {
+    "gene": "QRICH1",
+    "uniprot": "Q2TAL8",
+    "n_variants": 2,
+    "n_pathogenic": 1,
+    "n_benign": 1
+  },
+  {
+    "gene": "QSOX1",
+    "uniprot": "O00391",
+    "n_variants": 3,
+    "n_pathogenic": 0,
+    "n_benign": 3
+  },
+  {
+    "gene": "RAB11B",
+    "uniprot": "Q15907",
+    "n_variants": 4,
+    "n_pathogenic": 1,
+    "n_benign": 3
+  },
+  {
+    "gene": "RAB1A",
+    "uniprot": "P62820",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "RAC1",
+    "uniprot": "P63000",
+    "n_variants": 6,
+    "n_pathogenic": 6,
+    "n_benign": 0
+  },
+  {
+    "gene": "RAC3",
+    "uniprot": "P60763",
+    "n_variants": 1,
+    "n_pathogenic": 1,
+    "n_benign": 0
+  },
+  {
+    "gene": "RAD21",
+    "uniprot": "O60216",
+    "n_variants": 3,
+    "n_pathogenic": 3,
+    "n_benign": 0
+  },
+  {
+    "gene": "RAD51",
+    "uniprot": "Q06609",
+    "n_variants": 2,
+    "n_pathogenic": 1,
+    "n_benign": 1
+  },
+  {
+    "gene": "RAD51C",
+    "uniprot": "O43502",
+    "n_variants": 40,
+    "n_pathogenic": 0,
+    "n_benign": 40
+  },
+  {
+    "gene": "RAD52",
+    "uniprot": "P43351",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "RAD54B",
+    "uniprot": "Q9Y620",
+    "n_variants": 3,
+    "n_pathogenic": 0,
+    "n_benign": 3
+  },
+  {
+    "gene": "RADX",
+    "uniprot": "Q6NSI4",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "RAF1",
+    "uniprot": "P04049",
+    "n_variants": 16,
+    "n_pathogenic": 11,
+    "n_benign": 5
+  },
+  {
+    "gene": "RAG2",
+    "uniprot": "P55895",
+    "n_variants": 18,
+    "n_pathogenic": 14,
+    "n_benign": 4
+  },
+  {
+    "gene": "RALA",
+    "uniprot": "P11233",
+    "n_variants": 7,
+    "n_pathogenic": 2,
+    "n_benign": 5
+  },
+  {
+    "gene": "RALBP1",
+    "uniprot": "Q15311",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "RALGDS",
+    "uniprot": "Q12967",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "RALY",
+    "uniprot": "Q9UKM9",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "RB1",
+    "uniprot": "P06400",
+    "n_variants": 13,
+    "n_pathogenic": 11,
+    "n_benign": 2
+  },
+  {
+    "gene": "RBBP5",
+    "uniprot": "Q15291",
+    "n_variants": 1,
+    "n_pathogenic": 1,
+    "n_benign": 0
+  },
+  {
+    "gene": "RBBP8",
+    "uniprot": "Q99708",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "RBP1",
+    "uniprot": "P09455",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "RD3",
+    "uniprot": "Q7Z3Z2",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "REC114",
+    "uniprot": "Q7Z4M0",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "REPS1",
+    "uniprot": "Q96D71",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "RFWD3",
+    "uniprot": "Q6PCD5",
+    "n_variants": 4,
+    "n_pathogenic": 0,
+    "n_benign": 4
+  },
+  {
+    "gene": "RFX5",
+    "uniprot": "P48382",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "RFXANK",
+    "uniprot": "O14593",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "RHD",
+    "uniprot": "Q02161",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "RHEB",
+    "uniprot": "Q15382",
+    "n_variants": 4,
+    "n_pathogenic": 4,
+    "n_benign": 0
+  },
+  {
+    "gene": "RHO",
+    "uniprot": "P08100",
+    "n_variants": 59,
+    "n_pathogenic": 57,
+    "n_benign": 2
+  },
+  {
+    "gene": "RHOA",
+    "uniprot": "P61586",
+    "n_variants": 1,
+    "n_pathogenic": 1,
+    "n_benign": 0
+  },
+  {
+    "gene": "RIT1",
+    "uniprot": "Q9C0K0",
+    "n_variants": 16,
+    "n_pathogenic": 16,
+    "n_benign": 0
+  },
+  {
+    "gene": "RLIM",
+    "uniprot": "Q9NVW2",
+    "n_variants": 2,
+    "n_pathogenic": 1,
+    "n_benign": 1
+  },
+  {
+    "gene": "RND3",
+    "uniprot": "P61587",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "RNF125",
+    "uniprot": "Q96EQ8",
+    "n_variants": 3,
+    "n_pathogenic": 0,
+    "n_benign": 3
+  },
+  {
+    "gene": "RNF126",
+    "uniprot": "Q9BV68",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "RNF128",
+    "uniprot": "Q8TEB7",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "RNF13",
+    "uniprot": "O43567",
+    "n_variants": 14,
+    "n_pathogenic": 0,
+    "n_benign": 14
+  },
+  {
+    "gene": "RNF135",
+    "uniprot": "Q8IUD6",
+    "n_variants": 4,
+    "n_pathogenic": 0,
+    "n_benign": 4
+  },
+  {
+    "gene": "RNF146",
+    "uniprot": "Q9NTX7",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "RNF168",
+    "uniprot": "Q8IYW5",
+    "n_variants": 7,
+    "n_pathogenic": 0,
+    "n_benign": 7
+  },
+  {
+    "gene": "RNF216",
+    "uniprot": "Q9NWF9",
+    "n_variants": 2,
+    "n_pathogenic": 1,
+    "n_benign": 1
+  },
+  {
+    "gene": "RNF43",
+    "uniprot": "Q68DV7",
+    "n_variants": 10,
+    "n_pathogenic": 0,
+    "n_benign": 10
+  },
+  {
+    "gene": "ROGDI",
+    "uniprot": "Q9GZN7",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "ROR1",
+    "uniprot": "Q01973",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "ROR2",
+    "uniprot": "Q01974",
+    "n_variants": 11,
+    "n_pathogenic": 0,
+    "n_benign": 11
+  },
+  {
+    "gene": "RP2",
+    "uniprot": "O75695",
+    "n_variants": 19,
+    "n_pathogenic": 7,
+    "n_benign": 12
+  },
+  {
+    "gene": "RPA1",
+    "uniprot": "P27694",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "RPF2",
+    "uniprot": "Q9H7B2",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "RPL10",
+    "uniprot": "P27635",
+    "n_variants": 4,
+    "n_pathogenic": 1,
+    "n_benign": 3
+  },
+  {
+    "gene": "RPL19",
+    "uniprot": "P84098",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "RPL27",
+    "uniprot": "P61353",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "RPL5",
+    "uniprot": "P46777",
+    "n_variants": 5,
+    "n_pathogenic": 5,
+    "n_benign": 0
+  },
+  {
+    "gene": "RPN1",
+    "uniprot": "P04843",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "RPN2",
+    "uniprot": "P04844",
+    "n_variants": 3,
+    "n_pathogenic": 0,
+    "n_benign": 3
+  },
+  {
+    "gene": "RPS10",
+    "uniprot": "P46783",
+    "n_variants": 1,
+    "n_pathogenic": 1,
+    "n_benign": 0
+  },
+  {
+    "gene": "RPS15",
+    "uniprot": "P62841",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "RPS17",
+    "uniprot": "P08708",
+    "n_variants": 1,
+    "n_pathogenic": 1,
+    "n_benign": 0
+  },
+  {
+    "gene": "RPS19",
+    "uniprot": "P39019",
+    "n_variants": 9,
+    "n_pathogenic": 9,
+    "n_benign": 0
+  },
+  {
+    "gene": "RPS20",
+    "uniprot": "P60866",
+    "n_variants": 3,
+    "n_pathogenic": 2,
+    "n_benign": 1
+  },
+  {
+    "gene": "RPS26",
+    "uniprot": "P62854",
+    "n_variants": 5,
+    "n_pathogenic": 5,
+    "n_benign": 0
+  },
+  {
+    "gene": "RPSA",
+    "uniprot": "C9J9K3",
+    "n_variants": 1,
+    "n_pathogenic": 1,
+    "n_benign": 0
+  },
+  {
+    "gene": "RRN3",
+    "uniprot": "Q9NYV6",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "RRS1",
+    "uniprot": "Q15050",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "RS1",
+    "uniprot": "O15537",
+    "n_variants": 67,
+    "n_pathogenic": 63,
+    "n_benign": 4
+  },
+  {
+    "gene": "RUNX1",
+    "uniprot": "Q01196",
+    "n_variants": 23,
+    "n_pathogenic": 9,
+    "n_benign": 14
+  },
+  {
+    "gene": "RYK",
+    "uniprot": "P34925",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "S100A9",
+    "uniprot": "P06702",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "SAG",
+    "uniprot": "P10523",
+    "n_variants": 4,
+    "n_pathogenic": 1,
+    "n_benign": 3
+  },
+  {
+    "gene": "SAR1B",
+    "uniprot": "Q9Y6B6",
+    "n_variants": 1,
+    "n_pathogenic": 1,
+    "n_benign": 0
+  },
+  {
+    "gene": "SARS1",
+    "uniprot": "P49591",
+    "n_variants": 1,
+    "n_pathogenic": 1,
+    "n_benign": 0
+  },
+  {
+    "gene": "SARS2",
+    "uniprot": "Q9NP81",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "SATB1",
+    "uniprot": "Q01826",
+    "n_variants": 4,
+    "n_pathogenic": 3,
+    "n_benign": 1
+  },
+  {
+    "gene": "SATB2",
+    "uniprot": "Q9UPW6",
+    "n_variants": 58,
+    "n_pathogenic": 14,
+    "n_benign": 44
+  },
+  {
+    "gene": "SCD",
+    "uniprot": "O00767",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "SCNN1A",
+    "uniprot": "P37088",
+    "n_variants": 3,
+    "n_pathogenic": 0,
+    "n_benign": 3
+  },
+  {
+    "gene": "SCNN1B",
+    "uniprot": "P51168",
+    "n_variants": 3,
+    "n_pathogenic": 1,
+    "n_benign": 2
+  },
+  {
+    "gene": "SCNN1G",
+    "uniprot": "P51170",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "SCO2",
+    "uniprot": "O43819",
+    "n_variants": 2,
+    "n_pathogenic": 1,
+    "n_benign": 1
+  },
+  {
+    "gene": "SCYL1",
+    "uniprot": "Q96KG9",
+    "n_variants": 3,
+    "n_pathogenic": 1,
+    "n_benign": 2
+  },
+  {
+    "gene": "SDC1",
+    "uniprot": "P18827",
+    "n_variants": 4,
+    "n_pathogenic": 0,
+    "n_benign": 4
+  },
+  {
+    "gene": "SDHC",
+    "uniprot": "Q99643",
+    "n_variants": 8,
+    "n_pathogenic": 8,
+    "n_benign": 0
+  },
+  {
+    "gene": "SDHD",
+    "uniprot": "O14521",
+    "n_variants": 9,
+    "n_pathogenic": 9,
+    "n_benign": 0
+  },
+  {
+    "gene": "SDS",
+    "uniprot": "P20132",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "SEC23A",
+    "uniprot": "Q15436",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "SEC63",
+    "uniprot": "Q9UGP8",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "SENP1",
+    "uniprot": "Q9P0U3",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "SERPINE1",
+    "uniprot": "P05121",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "SET",
+    "uniprot": "Q01105",
+    "n_variants": 1,
+    "n_pathogenic": 1,
+    "n_benign": 0
+  },
+  {
+    "gene": "SETDB2",
+    "uniprot": "Q96T68",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "SH3KBP1",
+    "uniprot": "Q96B97",
+    "n_variants": 3,
+    "n_pathogenic": 0,
+    "n_benign": 3
+  },
+  {
+    "gene": "SH3RF1",
+    "uniprot": "Q7Z6J0",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "SHARPIN",
+    "uniprot": "Q9H0F6",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "SHH",
+    "uniprot": "Q15465",
+    "n_variants": 3,
+    "n_pathogenic": 3,
+    "n_benign": 0
+  },
+  {
+    "gene": "SHQ1",
+    "uniprot": "Q6PI26",
+    "n_variants": 4,
+    "n_pathogenic": 0,
+    "n_benign": 4
+  },
+  {
+    "gene": "SIGIRR",
+    "uniprot": "Q6IA17",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "SIGLEC15",
+    "uniprot": "Q6ZMC9",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "SIL1",
+    "uniprot": "Q9H173",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "SIM1",
+    "uniprot": "P81133",
+    "n_variants": 3,
+    "n_pathogenic": 0,
+    "n_benign": 3
+  },
+  {
+    "gene": "SIRPA",
+    "uniprot": "P78324",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "SIRT1",
+    "uniprot": "Q96EB6",
+    "n_variants": 3,
+    "n_pathogenic": 0,
+    "n_benign": 3
+  },
+  {
+    "gene": "SIRT2",
+    "uniprot": "Q8IXJ6",
+    "n_variants": 4,
+    "n_pathogenic": 0,
+    "n_benign": 4
+  },
+  {
+    "gene": "SIX1",
+    "uniprot": "Q15475",
+    "n_variants": 4,
+    "n_pathogenic": 4,
+    "n_benign": 0
+  },
+  {
+    "gene": "SIX6",
+    "uniprot": "O95475",
+    "n_variants": 2,
+    "n_pathogenic": 1,
+    "n_benign": 1
+  },
+  {
+    "gene": "SKAP2",
+    "uniprot": "O75563",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "SKI",
+    "uniprot": "P12755",
+    "n_variants": 14,
+    "n_pathogenic": 13,
+    "n_benign": 1
+  },
+  {
+    "gene": "SLA2",
+    "uniprot": "Q9H6Q3",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "SLC19A1",
+    "uniprot": "P41440",
+    "n_variants": 4,
+    "n_pathogenic": 0,
+    "n_benign": 4
+  },
+  {
+    "gene": "SLC39A5",
+    "uniprot": "Q6ZMH5",
+    "n_variants": 4,
+    "n_pathogenic": 0,
+    "n_benign": 4
+  },
+  {
+    "gene": "SLC39A7",
+    "uniprot": "Q92504",
+    "n_variants": 3,
+    "n_pathogenic": 2,
+    "n_benign": 1
+  },
+  {
+    "gene": "SLC3A1",
+    "uniprot": "Q07837",
+    "n_variants": 2,
+    "n_pathogenic": 2,
+    "n_benign": 0
+  },
+  {
+    "gene": "SLC3A2",
+    "uniprot": "P08195",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "SLC8A3",
+    "uniprot": "P57103",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "SLFN11",
+    "uniprot": "Q7Z7L1",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "SLFN14",
+    "uniprot": "P0C7P3",
+    "n_variants": 7,
+    "n_pathogenic": 0,
+    "n_benign": 7
+  },
+  {
+    "gene": "SLU7",
+    "uniprot": "O95391",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "SMAD2",
+    "uniprot": "Q15796",
+    "n_variants": 5,
+    "n_pathogenic": 5,
+    "n_benign": 0
+  },
+  {
+    "gene": "SMAD3",
+    "uniprot": "P84022",
+    "n_variants": 6,
+    "n_pathogenic": 6,
+    "n_benign": 0
+  },
+  {
+    "gene": "SMAD4",
+    "uniprot": "Q13485",
+    "n_variants": 6,
+    "n_pathogenic": 6,
+    "n_benign": 0
+  },
+  {
+    "gene": "SMAP1",
+    "uniprot": "Q8IYB5",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "SMARCB1",
+    "uniprot": "Q12824",
+    "n_variants": 3,
+    "n_pathogenic": 3,
+    "n_benign": 0
+  },
+  {
+    "gene": "SMARCD1",
+    "uniprot": "Q96GM5",
+    "n_variants": 2,
+    "n_pathogenic": 1,
+    "n_benign": 1
+  },
+  {
+    "gene": "SMARCE1",
+    "uniprot": "Q969G3",
+    "n_variants": 5,
+    "n_pathogenic": 5,
+    "n_benign": 0
+  },
+  {
+    "gene": "SMCR8",
+    "uniprot": "Q8TEV9",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "SMG8",
+    "uniprot": "Q8ND04",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "SMUG1",
+    "uniprot": "Q53HV7",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "SMURF2",
+    "uniprot": "Q9HAU4",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "SMYD1",
+    "uniprot": "Q8NB12",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "SNAI1",
+    "uniprot": "O95863",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "SNAP25",
+    "uniprot": "P60880",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "SNF8",
+    "uniprot": "Q96H20",
+    "n_variants": 3,
+    "n_pathogenic": 3,
+    "n_benign": 0
+  },
+  {
+    "gene": "SNX10",
+    "uniprot": "Q9Y5X0",
+    "n_variants": 1,
+    "n_pathogenic": 1,
+    "n_benign": 0
+  },
+  {
+    "gene": "SORD",
+    "uniprot": "Q00796",
+    "n_variants": 5,
+    "n_pathogenic": 0,
+    "n_benign": 5
+  },
+  {
+    "gene": "SP140",
+    "uniprot": "Q13342",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "SP3",
+    "uniprot": "Q02447",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "SP6",
+    "uniprot": "Q3SY56",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "SPARC",
+    "uniprot": "P09486",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "SPN",
+    "uniprot": "P16150",
+    "n_variants": 3,
+    "n_pathogenic": 0,
+    "n_benign": 3
+  },
+  {
+    "gene": "SPNS2",
+    "uniprot": "Q8IVW8",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "SPO11",
+    "uniprot": "Q9Y5K1",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "SPP1",
+    "uniprot": "P10451",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "SPP2",
+    "uniprot": "Q13103",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "SPR",
+    "uniprot": "P35270",
+    "n_variants": 3,
+    "n_pathogenic": 3,
+    "n_benign": 0
+  },
+  {
+    "gene": "SPRED1",
+    "uniprot": "Q7Z699",
+    "n_variants": 2,
+    "n_pathogenic": 1,
+    "n_benign": 1
+  },
+  {
+    "gene": "SPRY2",
+    "uniprot": "O43597",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "SRP72",
+    "uniprot": "O76094",
+    "n_variants": 3,
+    "n_pathogenic": 0,
+    "n_benign": 3
+  },
+  {
+    "gene": "SRPK1",
+    "uniprot": "Q96SB4",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "SRY",
+    "uniprot": "Q05066",
+    "n_variants": 4,
+    "n_pathogenic": 4,
+    "n_benign": 0
+  },
+  {
+    "gene": "SSR4",
+    "uniprot": "P51571",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "ST14",
+    "uniprot": "Q9Y5Y6",
+    "n_variants": 11,
+    "n_pathogenic": 0,
+    "n_benign": 11
+  },
+  {
+    "gene": "STAC",
+    "uniprot": "Q99469",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "STAR",
+    "uniprot": "P49675",
+    "n_variants": 6,
+    "n_pathogenic": 5,
+    "n_benign": 1
+  },
+  {
+    "gene": "STAT1",
+    "uniprot": "P42224",
+    "n_variants": 21,
+    "n_pathogenic": 21,
+    "n_benign": 0
+  },
+  {
+    "gene": "STAT2",
+    "uniprot": "P52630",
+    "n_variants": 1,
+    "n_pathogenic": 1,
+    "n_benign": 0
+  },
+  {
+    "gene": "STAT3",
+    "uniprot": "P40763",
+    "n_variants": 37,
+    "n_pathogenic": 32,
+    "n_benign": 5
+  },
+  {
+    "gene": "STEAP3",
+    "uniprot": "Q658P3",
+    "n_variants": 5,
+    "n_pathogenic": 0,
+    "n_benign": 5
+  },
+  {
+    "gene": "STEAP4",
+    "uniprot": "Q687X5",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "STK11",
+    "uniprot": "Q15831",
+    "n_variants": 8,
+    "n_pathogenic": 8,
+    "n_benign": 0
+  },
+  {
+    "gene": "STN1",
+    "uniprot": "Q9H668",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "STRA6",
+    "uniprot": "Q9BX79",
+    "n_variants": 11,
+    "n_pathogenic": 4,
+    "n_benign": 7
+  },
+  {
+    "gene": "STS",
+    "uniprot": "P08842",
+    "n_variants": 11,
+    "n_pathogenic": 0,
+    "n_benign": 11
+  },
+  {
+    "gene": "STT3B",
+    "uniprot": "Q8TCJ2",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "STXBP1",
+    "uniprot": "P61764",
+    "n_variants": 53,
+    "n_pathogenic": 38,
+    "n_benign": 15
+  },
+  {
+    "gene": "SULT1C3",
+    "uniprot": "Q6IMI6",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "SURF1",
+    "uniprot": "Q15526",
+    "n_variants": 8,
+    "n_pathogenic": 8,
+    "n_benign": 0
+  },
+  {
+    "gene": "SUZ12",
+    "uniprot": "Q15022",
+    "n_variants": 1,
+    "n_pathogenic": 1,
+    "n_benign": 0
+  },
+  {
+    "gene": "SYK",
+    "uniprot": "P43405",
+    "n_variants": 1,
+    "n_pathogenic": 1,
+    "n_benign": 0
+  },
+  {
+    "gene": "SYNCRIP",
+    "uniprot": "O60506",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "TACC3",
+    "uniprot": "Q9Y6A5",
+    "n_variants": 3,
+    "n_pathogenic": 0,
+    "n_benign": 3
+  },
+  {
+    "gene": "TAF10",
+    "uniprot": "Q12962",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "TAFAZZIN",
+    "uniprot": "Q16635",
+    "n_variants": 2,
+    "n_pathogenic": 2,
+    "n_benign": 0
+  },
+  {
+    "gene": "TAP2",
+    "uniprot": "Q03519",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "TAT",
+    "uniprot": "P17735",
+    "n_variants": 3,
+    "n_pathogenic": 1,
+    "n_benign": 2
+  },
+  {
+    "gene": "TBCE",
+    "uniprot": "Q15813",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "TBK1",
+    "uniprot": "Q9UHD2",
+    "n_variants": 3,
+    "n_pathogenic": 1,
+    "n_benign": 2
+  },
+  {
+    "gene": "TBL1X",
+    "uniprot": "O60907",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "TBL1XR1",
+    "uniprot": "Q9BZK7",
+    "n_variants": 16,
+    "n_pathogenic": 16,
+    "n_benign": 0
+  },
+  {
+    "gene": "TBX1",
+    "uniprot": "O43435",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "TBX21",
+    "uniprot": "Q9UL17",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "TBX3",
+    "uniprot": "O15119",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "TBX5",
+    "uniprot": "Q99593",
+    "n_variants": 9,
+    "n_pathogenic": 9,
+    "n_benign": 0
+  },
+  {
+    "gene": "TCF3",
+    "uniprot": "P15923",
+    "n_variants": 4,
+    "n_pathogenic": 1,
+    "n_benign": 3
+  },
+  {
+    "gene": "TDP1",
+    "uniprot": "Q9NUW8",
+    "n_variants": 3,
+    "n_pathogenic": 1,
+    "n_benign": 2
+  },
+  {
+    "gene": "TEKTIP1",
+    "uniprot": "A6NCJ1",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "TELO2",
+    "uniprot": "Q9Y4R8",
+    "n_variants": 15,
+    "n_pathogenic": 1,
+    "n_benign": 14
+  },
+  {
+    "gene": "TEPSIN",
+    "uniprot": "Q96N21",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "TF",
+    "uniprot": "P02787",
+    "n_variants": 5,
+    "n_pathogenic": 0,
+    "n_benign": 5
+  },
+  {
+    "gene": "TFAM",
+    "uniprot": "Q00059",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "TFG",
+    "uniprot": "Q92734",
+    "n_variants": 3,
+    "n_pathogenic": 2,
+    "n_benign": 1
+  },
+  {
+    "gene": "TFPI",
+    "uniprot": "P10646",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "TGIF1",
+    "uniprot": "Q15583",
+    "n_variants": 3,
+    "n_pathogenic": 1,
+    "n_benign": 2
+  },
+  {
+    "gene": "TH",
+    "uniprot": "P07101",
+    "n_variants": 3,
+    "n_pathogenic": 2,
+    "n_benign": 1
+  },
+  {
+    "gene": "THEMIS",
+    "uniprot": "Q8N1K5",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "THRA",
+    "uniprot": "P10827",
+    "n_variants": 5,
+    "n_pathogenic": 4,
+    "n_benign": 1
+  },
+  {
+    "gene": "TLR3",
+    "uniprot": "O15455",
+    "n_variants": 5,
+    "n_pathogenic": 0,
+    "n_benign": 5
+  },
+  {
+    "gene": "TMCO1",
+    "uniprot": "Q9UM00",
+    "n_variants": 1,
+    "n_pathogenic": 1,
+    "n_benign": 0
+  },
+  {
+    "gene": "TMEM106B",
+    "uniprot": "Q9NUM4",
+    "n_variants": 4,
+    "n_pathogenic": 1,
+    "n_benign": 3
+  },
+  {
+    "gene": "TMEM175",
+    "uniprot": "Q9BSA9",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "TMEM63A",
+    "uniprot": "O94886",
+    "n_variants": 6,
+    "n_pathogenic": 2,
+    "n_benign": 4
+  },
+  {
+    "gene": "TMPRSS2",
+    "uniprot": "O15393",
+    "n_variants": 4,
+    "n_pathogenic": 0,
+    "n_benign": 4
+  },
+  {
+    "gene": "TNFAIP3",
+    "uniprot": "P21580",
+    "n_variants": 5,
+    "n_pathogenic": 1,
+    "n_benign": 4
+  },
+  {
+    "gene": "TNK1",
+    "uniprot": "Q13470",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "TNNI3K",
+    "uniprot": "Q59H18",
+    "n_variants": 3,
+    "n_pathogenic": 1,
+    "n_benign": 2
+  },
+  {
+    "gene": "TOX3",
+    "uniprot": "O15405",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "TP53",
+    "uniprot": "P04637",
+    "n_variants": 101,
+    "n_pathogenic": 74,
+    "n_benign": 27
+  },
+  {
+    "gene": "TP53RK",
+    "uniprot": "Q96S44",
+    "n_variants": 4,
+    "n_pathogenic": 0,
+    "n_benign": 4
+  },
+  {
+    "gene": "TPO",
+    "uniprot": "P07202",
+    "n_variants": 10,
+    "n_pathogenic": 6,
+    "n_benign": 4
+  },
+  {
+    "gene": "TPP1",
+    "uniprot": "A0A804HJ17",
+    "n_variants": 10,
+    "n_pathogenic": 10,
+    "n_benign": 0
+  },
+  {
+    "gene": "TPRKB",
+    "uniprot": "Q9Y3C4",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "TPSB2",
+    "uniprot": "P20231",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "TRAF3",
+    "uniprot": "Q13114",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "TRAF3IP2",
+    "uniprot": "O43734",
+    "n_variants": 7,
+    "n_pathogenic": 1,
+    "n_benign": 6
+  },
+  {
+    "gene": "TRAF7",
+    "uniprot": "Q6Q0C0",
+    "n_variants": 5,
+    "n_pathogenic": 4,
+    "n_benign": 1
+  },
+  {
+    "gene": "TREM2",
+    "uniprot": "Q9NZC2",
+    "n_variants": 1,
+    "n_pathogenic": 1,
+    "n_benign": 0
+  },
+  {
+    "gene": "TRH",
+    "uniprot": "P20396",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "TRIM25",
+    "uniprot": "Q14258",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "TRIM37",
+    "uniprot": "O94972",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "TRIM5",
+    "uniprot": "Q9C035",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "TRIM56",
+    "uniprot": "Q9BRZ2",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "TRIM69",
+    "uniprot": "Q86WT6",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "TRIM71",
+    "uniprot": "Q2Q1W2",
+    "n_variants": 1,
+    "n_pathogenic": 1,
+    "n_benign": 0
+  },
+  {
+    "gene": "TRPV1",
+    "uniprot": "Q8NER1",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "TSR1",
+    "uniprot": "Q2NL82",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "TSR2",
+    "uniprot": "Q969E8",
+    "n_variants": 2,
+    "n_pathogenic": 1,
+    "n_benign": 1
+  },
+  {
+    "gene": "TSSC4",
+    "uniprot": "Q9Y5U2",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "TTI2",
+    "uniprot": "Q6NXR4",
+    "n_variants": 3,
+    "n_pathogenic": 1,
+    "n_benign": 2
+  },
+  {
+    "gene": "TTK",
+    "uniprot": "P33981",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "TTL",
+    "uniprot": "Q8NG68",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "TTLL6",
+    "uniprot": "Q8N841",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "TTR",
+    "uniprot": "P02766",
+    "n_variants": 42,
+    "n_pathogenic": 42,
+    "n_benign": 0
+  },
+  {
+    "gene": "TUB",
+    "uniprot": "P50607",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "TXNIP",
+    "uniprot": "Q9H3M7",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "TYR",
+    "uniprot": "P14679",
+    "n_variants": 39,
+    "n_pathogenic": 38,
+    "n_benign": 1
+  },
+  {
+    "gene": "TYRO3",
+    "uniprot": "Q06418",
+    "n_variants": 3,
+    "n_pathogenic": 0,
+    "n_benign": 3
+  },
+  {
+    "gene": "TYW1",
+    "uniprot": "Q9NV66",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "UBASH3A",
+    "uniprot": "P57075",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "UBD",
+    "uniprot": "O15205",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "UCP1",
+    "uniprot": "P25874",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "UIMC1",
+    "uniprot": "Q96RL1",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "ULK3",
+    "uniprot": "Q6PHR2",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "UQCRFS1",
+    "uniprot": "P47985",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "USP37",
+    "uniprot": "Q86T82",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "UTP23",
+    "uniprot": "Q9BRU9",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "UTP3",
+    "uniprot": "Q9NQZ2",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "UTP4",
+    "uniprot": "Q969X6",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "UTP6",
+    "uniprot": "Q9NYH9",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "VAC14",
+    "uniprot": "Q08AM6",
+    "n_variants": 3,
+    "n_pathogenic": 0,
+    "n_benign": 3
+  },
+  {
+    "gene": "VAMP2",
+    "uniprot": "P63027",
+    "n_variants": 2,
+    "n_pathogenic": 2,
+    "n_benign": 0
+  },
+  {
+    "gene": "VANGL2",
+    "uniprot": "Q9ULK5",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "VAPB",
+    "uniprot": "O95292",
+    "n_variants": 1,
+    "n_pathogenic": 1,
+    "n_benign": 0
+  },
+  {
+    "gene": "VASP",
+    "uniprot": "P50552",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "VCP",
+    "uniprot": "P55072",
+    "n_variants": 14,
+    "n_pathogenic": 14,
+    "n_benign": 0
+  },
+  {
+    "gene": "VEGFC",
+    "uniprot": "P49767",
+    "n_variants": 8,
+    "n_pathogenic": 0,
+    "n_benign": 8
+  },
+  {
+    "gene": "VGF",
+    "uniprot": "O15240",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "VHL",
+    "uniprot": "P40337",
+    "n_variants": 78,
+    "n_pathogenic": 69,
+    "n_benign": 9
+  },
+  {
+    "gene": "VIM",
+    "uniprot": "P08670",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "VKORC1",
+    "uniprot": "Q9BQB6",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "VMA21",
+    "uniprot": "Q3ZAQ7",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "VMA22",
+    "uniprot": "Q96NT0",
+    "n_variants": 2,
+    "n_pathogenic": 1,
+    "n_benign": 1
+  },
+  {
+    "gene": "VPS25",
+    "uniprot": "Q9BRG1",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "VPS35",
+    "uniprot": "Q96QK1",
+    "n_variants": 2,
+    "n_pathogenic": 1,
+    "n_benign": 1
+  },
+  {
+    "gene": "VPS45",
+    "uniprot": "Q9NRW7",
+    "n_variants": 1,
+    "n_pathogenic": 1,
+    "n_benign": 0
+  },
+  {
+    "gene": "VSIG4",
+    "uniprot": "Q9Y279",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "VWA2",
+    "uniprot": "Q5GFL6",
+    "n_variants": 7,
+    "n_pathogenic": 0,
+    "n_benign": 7
+  },
+  {
+    "gene": "WDR4",
+    "uniprot": "P57081",
+    "n_variants": 3,
+    "n_pathogenic": 0,
+    "n_benign": 3
+  },
+  {
+    "gene": "WDR5",
+    "uniprot": "P61964",
+    "n_variants": 2,
+    "n_pathogenic": 2,
+    "n_benign": 0
+  },
+  {
+    "gene": "WDR59",
+    "uniprot": "Q6PJI9",
+    "n_variants": 4,
+    "n_pathogenic": 0,
+    "n_benign": 4
+  },
+  {
+    "gene": "WEE1",
+    "uniprot": "A0A7P0TBN9",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "WRNIP1",
+    "uniprot": "Q96S55",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "WT1",
+    "uniprot": "A0A481V744",
+    "n_variants": 18,
+    "n_pathogenic": 15,
+    "n_benign": 3
+  },
+  {
+    "gene": "XCL1",
+    "uniprot": "P47992",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "XIAP",
+    "uniprot": "P98170",
+    "n_variants": 12,
+    "n_pathogenic": 0,
+    "n_benign": 12
+  },
+  {
+    "gene": "XK",
+    "uniprot": "P51811",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "XPA",
+    "uniprot": "P23025",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "XPC",
+    "uniprot": "D9I4E1",
+    "n_variants": 8,
+    "n_pathogenic": 2,
+    "n_benign": 6
+  },
+  {
+    "gene": "XRCC1",
+    "uniprot": "F5H8D7",
+    "n_variants": 4,
+    "n_pathogenic": 0,
+    "n_benign": 4
+  },
+  {
+    "gene": "XRCC2",
+    "uniprot": "O43543",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "XRCC4",
+    "uniprot": "Q13426",
+    "n_variants": 3,
+    "n_pathogenic": 0,
+    "n_benign": 3
+  },
+  {
+    "gene": "YAP1",
+    "uniprot": "P46937",
+    "n_variants": 2,
+    "n_pathogenic": 1,
+    "n_benign": 1
+  },
+  {
+    "gene": "ZC3H12A",
+    "uniprot": "R4GN17",
+    "n_variants": 2,
+    "n_pathogenic": 0,
+    "n_benign": 2
+  },
+  {
+    "gene": "ZC3H12B",
+    "uniprot": "A0A8Q3WL71",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "ZCCHC4",
+    "uniprot": "Q9H5U6",
+    "n_variants": 4,
+    "n_pathogenic": 0,
+    "n_benign": 4
+  },
+  {
+    "gene": "ZNRF3",
+    "uniprot": "Q9ULT6",
+    "n_variants": 7,
+    "n_pathogenic": 7,
+    "n_benign": 0
+  },
+  {
+    "gene": "ZP2",
+    "uniprot": "Q05996",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "ZPR1",
+    "uniprot": "O75312",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  },
+  {
+    "gene": "ZWILCH",
+    "uniprot": "Q9H900",
+    "n_variants": 1,
+    "n_pathogenic": 0,
+    "n_benign": 1
+  }
+]
