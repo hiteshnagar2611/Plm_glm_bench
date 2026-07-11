@@ -511,7 +511,7 @@ models_detail = [
 ]
 
 # Header
-add_card(slide, 0.5, 1.1, 12.3, 0.5, RGBColor(30, 58, 95))
+add_card(slide, 0.5, 1.1, 12.3, 0.5, RGBColor(37, 99, 235))
 add_text_box(slide, 0.7, 1.15, 1.5, 0.4, 'Model', 12, WHITE, True)
 add_text_box(slide, 2.3, 1.15, 2.3, 0.4, 'Paper Method', 12, WHITE, True)
 add_text_box(slide, 4.7, 1.15, 2.3, 0.4, 'Our V3 Method', 12, WHITE, True)
@@ -522,7 +522,7 @@ add_text_box(slide, 10.9, 1.15, 1.8, 0.4, 'Notes', 12, WHITE, True)
 
 for i, (model, paper, ours, auroc, sp, color, match) in enumerate(models_detail):
     y = 1.7 + i * 0.7
-    bg = BG_CARD if i % 2 == 0 else RGBColor(25, 35, 50)
+    bg = BG_CARD if i % 2 == 0 else RGBColor(226, 232, 240)
     add_card(slide, 0.5, y, 12.3, 0.6, bg)
     a_color = GREEN if float(auroc) > 0.8 else (ORANGE if float(auroc) > 0.6 else RED)
     add_text_box(slide, 0.7, y+0.05, 1.5, 0.5, model, 12, color, True)
