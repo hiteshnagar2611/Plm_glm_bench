@@ -308,13 +308,64 @@ add_text_box(slide, 6.8, 5.5, 5, 0.5, 'Genomic Language Models', 14, GREEN, True
 add_text_box(slide, 1.5, 5.9, 5, 0.5, 'ESM-1b  |  ESM-2  |  SaProt  |  ProtT5', 12, GRAY)
 add_text_box(slide, 6.8, 5.9, 5, 0.5, 'NT-v2  |  HyenaDNA  |  AlphaGenome', 12, GRAY)
 
-# ════════ SLIDE 2: SCORING FLOW DIAGRAM ════════
+# ════════ SLIDE 2: DATA FILTERING PIPELINE ════════
 slide = prs.slides.add_slide(prs.slide_layouts[6]); add_bg(slide)
-add_text_box(slide, 0.5, 0.3, 12.3, 0.7, 'How Pathogenicity Scoring Works', 30, WHITE, True)
+add_text_box(slide, 0.5, 0.3, 12.3, 0.7, 'V3 Benchmark: Data Filtering Pipeline', 30, WHITE, True)
+slide.shapes.add_picture(os.path.join(FIG_DIR, 'fig_v3_filtering_pipeline.png'),
+                         Inches(0.3), Inches(1.0), Inches(12.7), Inches(6.3))
+
+# ════════ SLIDE 3: SCORING METHODS EXPLAINED ════════
+slide = prs.slides.add_slide(prs.slide_layouts[6]); add_bg(slide)
+add_text_box(slide, 0.5, 0.3, 12.3, 0.7, 'How We Score Pathogenicity', 30, WHITE, True)
+
+# Left column: Protein LMs
+add_card(slide, 0.5, 1.2, 5.9, 5.8)
+tf = add_text_box(slide, 0.8, 1.3, 5.5, 0.5, 'Protein Language Models', 18, BLUE, True)
+add_para(tf, '', 4, GRAY, space_before=2)
+
+add_para(tf, 'ESM-1b / ESM-2 (Log-Likelihood Ratio)', 13, GREEN, True, space_before=8)
+add_para(tf, '  Score = log P(mut_aa | mut_ctx) − log P(wt_aa | wt_ctx)', 11, WHITE, space_before=4)
+add_para(tf, '  Negative → pathogenic | Run WT & mutant separately', 10, GRAY, space_before=2)
+
+add_para(tf, 'SaProt (Structure-Aware LLR)', 13, PURPLE, True, space_before=8)
+add_para(tf, '  Same LLR but tokens = AA × 3Di (Foldseek structure)', 11, WHITE, space_before=4)
+add_para(tf, '  Only WT sequence needed; mutant scored from same context', 10, GRAY, space_before=2)
+
+add_para(tf, 'ProtT5 (Position Cosine Similarity)', 13, ORANGE, True, space_before=8)
+add_para(tf, '  Score = cosine(hidden_wt[pos], hidden_mut[pos])', 11, WHITE, space_before=4)
+add_para(tf, '  Lower cosine → more pathogenic | Weaker than LLR', 10, GRAY, space_before=2)
+
+add_para(tf, '', 4, GRAY, space_before=4)
+add_para(tf, 'All protein LMs use zero-shot scoring (no fine-tuning)', 12, YELLOW, True, space_before=6)
+
+# Right column: Genomic LMs
+add_card(slide, 6.9, 1.2, 5.9, 5.8)
+tf = add_text_box(slide, 7.2, 1.3, 5.5, 0.5, 'Genomic Language Models', 18, GREEN, True)
+add_para(tf, '', 4, GRAY, space_before=2)
+
+add_para(tf, 'NT-v2 (Mean Hidden Delta)', 13, GREEN, True, space_before=8)
+add_para(tf, '  Score = mean(|hidden_wt − hidden_mut|)', 11, WHITE, space_before=4)
+add_para(tf, '  Higher delta → more pathogenic | 6kb DNA context', 10, GRAY, space_before=2)
+
+add_para(tf, 'HyenaDNA (Log-Likelihood Ratio)', 13, GREEN, True, space_before=8)
+add_para(tf, '  Score = log P(alt_base | alt_ctx) − log P(ref_base | ref_ctx)', 11, WHITE, space_before=4)
+add_para(tf, '  Autoregressive (causal) | Single nucleotide tokens', 10, GRAY, space_before=2)
+
+add_para(tf, 'AlphaGenome (Multi-Track Delta)', 13, ORANGE, True, space_before=8)
+add_para(tf, '  Score = mean(|ref_track_i − alt_track_i|) across 5 tracks', 11, WHITE, space_before=4)
+add_para(tf, '  RNA-seq, splice, DNase | Regulatory model, not protein', 10, GRAY, space_before=2)
+
+add_para(tf, '', 4, GRAY, space_before=4)
+add_para(tf, 'Genomic models predict DNA-level effects, not protein', 12, YELLOW, True, space_before=6)
+add_para(tf, 'pathogenicity directly → task mismatch for missense', 12, YELLOW)
+
+# ════════ SLIDE 4: SCORING FLOW DIAGRAM ════════
+slide = prs.slides.add_slide(prs.slide_layouts[6]); add_bg(slide)
+add_text_box(slide, 0.5, 0.3, 12.3, 0.7, 'Scoring Pipeline Overview', 30, WHITE, True)
 slide.shapes.add_picture(os.path.join(TEMP_DIR, 'plot_scoring_flow.png'),
                          Inches(0.5), Inches(1.1), Inches(12.3), Inches(6.2))
 
-# ════════ SLIDE 3: CORE LLR FORMULA ════════
+# ════════ SLIDE 5: CORE LLR FORMULA (renumbered from 3) ════════
 slide = prs.slides.add_slide(prs.slide_layouts[6]); add_bg(slide)
 add_text_box(slide, 0.5, 0.3, 12.3, 0.7, 'Core Method: Log-Likelihood Ratio (LLR)', 30, WHITE, True)
 add_card(slide, 0.5, 1.2, 12.3, 1.6)
