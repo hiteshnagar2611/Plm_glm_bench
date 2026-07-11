@@ -25,15 +25,15 @@ os.makedirs(TEMP_DIR, exist_ok=True)
 
 # ── Plot style ──
 plt.rcParams.update({
-    'figure.facecolor': '#0f172a',
-    'axes.facecolor': '#1e293b',
-    'axes.edgecolor': '#334155',
-    'axes.labelcolor': '#e2e8f0',
-    'xtick.color': '#94a3b8',
-    'ytick.color': '#94a3b8',
-    'text.color': '#e2e8f0',
-    'grid.color': '#334155',
-    'grid.alpha': 0.5,
+    'figure.facecolor': '#ffffff',
+    'axes.facecolor': '#f8fafc',
+    'axes.edgecolor': '#cbd5e1',
+    'axes.labelcolor': '#1e293b',
+    'xtick.color': '#475569',
+    'ytick.color': '#475569',
+    'text.color': '#1e293b',
+    'grid.color': '#e2e8f0',
+    'grid.alpha': 0.7,
     'font.family': 'sans-serif',
     'font.size': 11,
 })
@@ -61,7 +61,7 @@ for bar, val in zip(bars, aurocs):
             ha='center', va='bottom', fontsize=11, fontweight='bold', color='white')
 ax.legend(fontsize=9, loc='upper right', framealpha=0.8)
 plt.tight_layout()
-fig.savefig(os.path.join(TEMP_DIR, 'plot_auroc.png'), dpi=200, bbox_inches='tight', facecolor='#0f172a')
+fig.savefig(os.path.join(TEMP_DIR, 'plot_auroc.png'), dpi=200, bbox_inches='tight', facecolor='#ffffff')
 plt.close()
 print("  Saved plot_auroc.png")
 
@@ -81,7 +81,7 @@ for bar, val in zip(bars, spearmans):
     ax.text(bar.get_x() + bar.get_width()/2, bar.get_height() + 0.01, f'{val:.3f}',
             ha='center', va='bottom', fontsize=11, fontweight='bold', color='white')
 plt.tight_layout()
-fig.savefig(os.path.join(TEMP_DIR, 'plot_spearman.png'), dpi=200, bbox_inches='tight', facecolor='#0f172a')
+fig.savefig(os.path.join(TEMP_DIR, 'plot_spearman.png'), dpi=200, bbox_inches='tight', facecolor='#ffffff')
 plt.close()
 print("  Saved plot_spearman.png")
 
@@ -113,7 +113,7 @@ for bars_group in [b1, b2, b3]:
         ax.text(bar.get_x() + bar.get_width()/2, bar.get_height() + 0.01, f'{bar.get_height():.3f}',
                 ha='center', va='bottom', fontsize=9, fontweight='bold', color='white')
 plt.tight_layout()
-fig.savefig(os.path.join(TEMP_DIR, 'plot_scoring_methods.png'), dpi=200, bbox_inches='tight', facecolor='#0f172a')
+fig.savefig(os.path.join(TEMP_DIR, 'plot_scoring_methods.png'), dpi=200, bbox_inches='tight', facecolor='#ffffff')
 plt.close()
 print("  Saved plot_scoring_methods.png")
 
@@ -145,7 +145,7 @@ for bars_group in [b1, b2]:
         ax.text(bar.get_x() + bar.get_width()/2, bar.get_height() + 0.01, f'{bar.get_height():.3f}',
                 ha='center', va='bottom', fontsize=8, fontweight='bold', color='white')
 plt.tight_layout()
-fig.savefig(os.path.join(TEMP_DIR, 'plot_paper_vs_ours.png'), dpi=200, bbox_inches='tight', facecolor='#0f172a')
+fig.savefig(os.path.join(TEMP_DIR, 'plot_paper_vs_ours.png'), dpi=200, bbox_inches='tight', facecolor='#ffffff')
 plt.close()
 print("  Saved plot_paper_vs_ours.png")
 
@@ -192,7 +192,7 @@ legend_elements = [
 ]
 fig.legend(handles=legend_elements, fontsize=9, loc='lower center', ncol=4, framealpha=0.8)
 plt.tight_layout(rect=[0, 0.06, 1, 1])
-fig.savefig(os.path.join(TEMP_DIR, 'plot_size_vs_perf.png'), dpi=200, bbox_inches='tight', facecolor='#0f172a')
+fig.savefig(os.path.join(TEMP_DIR, 'plot_size_vs_perf.png'), dpi=200, bbox_inches='tight', facecolor='#ffffff')
 plt.close()
 print("  Saved plot_size_vs_perf.png")
 
@@ -253,7 +253,7 @@ ax.text(3.5, 5.5, 'PROTEIN LANGUAGE MODELS', ha='center', fontsize=12, fontweigh
 ax.text(3.5, 0.2, 'GENOMIC LANGUAGE MODELS', ha='center', fontsize=12, fontweight='bold', color='#10b981')
 
 plt.tight_layout()
-fig.savefig(os.path.join(TEMP_DIR, 'plot_scoring_flow.png'), dpi=200, bbox_inches='tight', facecolor='#0f172a')
+fig.savefig(os.path.join(TEMP_DIR, 'plot_scoring_flow.png'), dpi=200, bbox_inches='tight', facecolor='#ffffff')
 plt.close()
 print("  Saved plot_scoring_flow.png")
 
@@ -265,16 +265,16 @@ prs = Presentation()
 prs.slide_width  = Inches(13.333)
 prs.slide_height = Inches(7.5)
 
-BG_DARK   = RGBColor(15, 23, 42)
-BG_CARD   = RGBColor(30, 41, 59)
-WHITE     = RGBColor(255, 255, 255)
-GRAY      = RGBColor(148, 163, 184)
-BLUE      = RGBColor(59, 130, 246)
-GREEN     = RGBColor(16, 185, 129)
-RED       = RGBColor(239, 68, 68)
-ORANGE    = RGBColor(249, 115, 22)
-PURPLE    = RGBColor(139, 92, 246)
-YELLOW    = RGBColor(234, 179, 8)
+BG_DARK   = RGBColor(255, 255, 255)
+BG_CARD   = RGBColor(241, 245, 249)
+WHITE     = RGBColor(15, 23, 42)
+GRAY      = RGBColor(100, 116, 139)
+BLUE      = RGBColor(37, 99, 235)
+GREEN     = RGBColor(5, 150, 105)
+RED       = RGBColor(220, 38, 38)
+ORANGE    = RGBColor(234, 88, 12)
+PURPLE    = RGBColor(124, 58, 237)
+YELLOW    = RGBColor(202, 138, 4)
 
 def add_bg(slide):
     bg = slide.background.fill; bg.solid(); bg.fore_color.rgb = BG_DARK
@@ -303,10 +303,12 @@ shape.fill.solid(); shape.fill.fore_color.rgb = BLUE; shape.line.fill.background
 add_text_box(slide, 1.5, 1.0, 10.3, 1.6, 'Pathogenicity Scoring Methods', 42, WHITE, True, PP_ALIGN.CENTER)
 add_text_box(slide, 1.5, 2.8, 10.3, 1.0, 'How PLMs and GLMs Calculate Variant Pathogenicity', 22, GRAY, False, PP_ALIGN.CENTER)
 add_text_box(slide, 1.5, 4.0, 10.3, 0.8, 'Paper Methods  |  Our V3 Benchmark  |  Results Comparison', 16, BLUE, False, PP_ALIGN.CENTER)
-add_text_box(slide, 1.5, 5.5, 5, 0.5, 'Protein Language Models', 14, BLUE, True)
-add_text_box(slide, 6.8, 5.5, 5, 0.5, 'Genomic Language Models', 14, GREEN, True)
-add_text_box(slide, 1.5, 5.9, 5, 0.5, 'ESM-1b  |  ESM-2  |  SaProt  |  ProtT5', 12, GRAY)
-add_text_box(slide, 6.8, 5.9, 5, 0.5, 'NT-v2  |  HyenaDNA  |  AlphaGenome', 12, GRAY)
+add_text_box(slide, 1.5, 5.2, 10.3, 0.5, 'Hitesh Nagar', 18, WHITE, True, PP_ALIGN.CENTER)
+add_text_box(slide, 1.5, 5.7, 10.3, 0.5, 'Supervisor: Dr. Lipi Thukral', 16, GRAY, False, PP_ALIGN.CENTER)
+add_text_box(slide, 1.5, 6.3, 5, 0.5, 'Protein Language Models', 14, BLUE, True)
+add_text_box(slide, 6.8, 6.3, 5, 0.5, 'Genomic Language Models', 14, GREEN, True)
+add_text_box(slide, 1.5, 6.7, 5, 0.5, 'ESM-1b  |  ESM-2  |  SaProt  |  ProtT5', 12, GRAY)
+add_text_box(slide, 6.8, 6.7, 5, 0.5, 'NT-v2  |  HyenaDNA  |  AlphaGenome', 12, GRAY)
 
 # ════════ SLIDE 2: DATA FILTERING PIPELINE ════════
 slide = prs.slides.add_slide(prs.slide_layouts[6]); add_bg(slide)
